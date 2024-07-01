@@ -153,12 +153,7 @@
                                 <h2 class="title tg-element-title">How to get a blanket mortgage</h2>
                                 <p style="color: #000;">If you’ve decided that a blanket mortgage might be a good fit for your portfolio, you’ll need to apply — but be aware that the process is different than the one to apply for an ordinary mortgage. Here’s an overview of the steps:</p>
                             </div>
-                            <ul>
-                                <li><strong>Find a suitable lender:</strong> Most Main Street banks and credit unions don’t offer blanket mortgages. You likely will have to seek out a commercial lender — one that deals in financing for businesses or investments. Certain mortgage brokers specialize in this type of lending as well.</li>
-                                <li><strong>Check rates and terms:</strong> Since blanket loans can come with higher origination fees, the down payment and costs are usually higher than those for ordinary home loans. Comparison-shopping is crucial to get a sense of what’s standard and what may be out of line.</li>
-                                <li><strong>Verify each lender’s borrower requirements:</strong> As with any loan, you need to meet the minimum credit score and maximum debt-to-income ratio (DTI) threshold to qualify for a blanket mortgage — but the bar might be even higher. If applicable, the lender will review your company’s credit rating and debt-service coverage ratio (DSCR), as well.</li>
-                                <li><strong>Fill out your application:</strong> Gather all of your business documentation (credit reports, tax returns, financial statements) ahead of time. The lender will also want to see details on all the properties you want to finance. That includes their fair market value, any renovation plans and the figures on the rental or lease income they’ll generate.</li>                              
-                            </ul>
+                           
                             
                         </div>
                     </div>
