@@ -61,7 +61,7 @@
                                             </ul>
                                         </li>
                                                                                 
-                                        <li><a href='#'>Useful links</a></li>
+                                        <li><a href='useful-links.php'>Useful links</a></li>
                                         <li><a href='debt-management.php'>Debt Management</a></li>
                                         <li><a href='blog.php'>Blogs</a></li>
                                         <li><a href='contact.php'>contacts</a></li>
