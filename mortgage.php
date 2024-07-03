@@ -226,6 +226,24 @@
 {
     margin-top: 10px;
 }
+.call_bnt a
+{
+  text-decoration: none;
+}
+.call_bnt span
+{
+      background: #00143d;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 25px;
+}
+.call_bnt p
+{
+   margin-top: 25px;
+    color: #000;
+}
 </style>
     <!-- main-area -->
     <main class="fix">
@@ -690,13 +708,15 @@
                   </div>
               </div>
               <!-- ===============Last-Div================ -->
-               <!-- <div class="row">
+                <div class="row">
                   <div class="col-md-8 offset-md-2 text-center">
-                      <div class="thank-you-message card">
-                          <h3>Thank You</h3>
+                      <div class="thank-you-message card call_bnt" style="    padding: 40px 40px;">
+                          <h3 style="">Thank you for showing your interest. By submitting the information you allow us to contact you back. Our team of experts will contact you shortly</h3>
+                          <a href="tel:(888) 241-3106"><span>Call Us: (888) 241-3106</span></a>
+                          <p>By clicking & submitting this form you authorise us to call you back even if your number is in National or Federal Do Not Call List</p>
                       </div>
                   </div>
-              </div> -->
+              </div>
               <!-- ===============Last-Div================ -->
           </div>
         </section>

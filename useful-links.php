@@ -36,6 +36,13 @@
     color: #000;
     font-weight: 500;
 }
+.box_bg
+{
+	background: #ffffff0d;
+    padding: 30px 40px;
+    border-radius: 20px;
+    text-align: left;
+}
 </style>
     <!-- main-area -->
     <main class="fix">
@@ -79,7 +86,7 @@
                 </div>
                 <div class="row justify-content-center gutter-24">
                     <div class="col-lg-6 col-md-6">
-                        <div class="services__item-three" style="    text-align: left;">
+                        <div class="services__item-three box_bg">
                             <div class="services__item-top">
                                 <div class="services__icon-three">
                                     <i class="flaticon-investment-1"></i>
@@ -95,7 +102,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6">
-                        <div class="services__item-three" style="    text-align: left;">
+                        <div class="services__item-three box_bg">
                             <div class="services__item-top">
                                 <div class="services__icon-three">
                                     <i class="flaticon-finance"></i>
