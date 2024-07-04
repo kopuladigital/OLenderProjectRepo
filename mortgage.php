@@ -710,7 +710,7 @@
               <!-- ===============Last-Div================ -->
                 <div class="row">
                   <div class="col-md-8 offset-md-2 text-center">
-                      <div class="thank-you-message card call_bnt" style="    padding: 40px 40px;">
+                      <div class="thank-you-message card call_bnt" style="padding: 40px 40px;">
                           <h3 style="">Thank you for showing your interest. By submitting the information you allow us to contact you back. Our team of experts will contact you shortly</h3>
                           <a href="tel:(888) 241-3106"><span>Call Us: (888) 241-3106</span></a>
                           <p>By clicking & submitting this form you authorise us to call you back even if your number is in National or Federal Do Not Call List</p>
