@@ -44,6 +44,27 @@
     font-size: 22px;
     font-weight: 700;
 }
+@media (min-width: 576px) {
+    .modal-dialog {
+        max-width: 500px;
+        margin: 7.75rem auto !important;
+    }
+}
+.modal-body p
+{
+  color: #000;
+  font-size: 14px;
+}
+.btn_clls
+{
+     background: #00000030;
+    color: #000;
+    border: none;
+    border-radius: 50px;
+    padding: 3px 7px;
+    font-weight: 700;
+    font-size: 20px;
+}
 </style>
 <!-- main-area -->
 <main class="fix">
@@ -357,7 +378,7 @@
                <div class="mt-1 form__field" style="padding: 0px;margin-top: 15px !important;">
                   <label class="form__choice-wrapper">
                   <input id="agree" type="checkbox" name="email-newsletter" value="Yes"  required>
-                  <span style="font-size: 15px;">By providing your information, you agree to our <a href="terms-of-use.php" target="_blank">Terms Of Use</a>.</span>
+                  <span style="font-size: 15px;">By providing your information, you agree to our <a href="" data-toggle="modal" data-target="#basicModal">Terms Of Use</a>.</span>
                   </label>
                </div>
                <div class="d-flex align-items-center justify-center sm:justify-end mt-4 sm:mt-5">
@@ -502,7 +523,7 @@
                         slider: slider,
                         amount_type: amount_type,
                         stateName: stateName,
-                        firstName: firstName, 
+                        firstName: firstName,   
                         lastName : lastName,
                         mobileNumber : mobileNumber,
                         email : email,
@@ -512,7 +533,7 @@
                         addressState : addressState,
                         zip : zip,
                         dob : dob,
-                        agree : agree     
+                        agree : agree        
                     },
                     cache: false,
                     success: function(dataResult){
@@ -523,8 +544,8 @@
                             $("#amount-type").hide();
                             $("#steps-data").hide();
                             $("#welcome").show();
-                            //  $('#success').html('Recored Saved successfully !');   
-                                    
+                            //  $('#success').html('Recored Saved successfully !');    
+                                       
                         }
                         else if(dataResult.statusCode==201){
                           $("#amount-data").hide();

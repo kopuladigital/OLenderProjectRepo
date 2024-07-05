@@ -1,4 +1,18 @@
    <!-- footer-area -->
+   <style>
+       .footer__top-three .footer-link-list .list-wrap li a {
+    color: #e7e7e7;
+    font-size: 17px;
+    text-decoration: none;
+    font-weight: 500;
+}
+.footer__top-three .footer-info-list .list-wrap li .icon, .footer__top-three .footer-info-list .list-wrap li p, .footer__top-three .footer-info-list .list-wrap li a {
+    font-size: 17px;
+    font-weight: 500;
+    color: #fff;
+    text-decoration: none;
+}
+   </style>
     <footer>
         <div class="footer__area-three">
             <div class="footer__top-three">
@@ -11,7 +25,7 @@
                                     <p style="color: #fff;">We’re making getting a mortgage easier than ever before. Edge Home Finance Corporation has an experienced team of brokers on staff.</p>
                                 </div>
                                 <div class="footer__social-three">
-                                    <span class="title">Follow Us on:</span>
+                                    <span class="title" style="color: #ffffff;">Follow Us on:</span>
                                     <ul class="list-wrap">
                                         <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
                                         <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
@@ -104,8 +118,29 @@
     </footer>
     <!-- footer-area-end -->
 
-
+    <div class="modal fade" id="basicModal" tabindex="-1" role="dialog" aria-labelledby="basicModal" aria-hidden="true">
+    <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title" id="myModalLabel">OLLender Terms and Conditions</h4>
+        <button type="button" class="close btn_clls" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>By submitting the form on the website, you acknowledge that you permit OLLender to contact you at the number and/or email address I have provided above with automated technology in relation to this inquiry, even if you are on a Do Not Call list, via phone, e-mail, or text message. I understand that making a purchase is not consenting to receiving communications from ollender.com.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Accept</button>
+      </div>
+    </div>
+    </div>
+    </div>
     <!-- JS here -->
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+<script src='https://unpkg.com/popper.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/js/bootstrap.min.js'></script>
+
     <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
     <script src="assets/js/bootstrap.bundle.min.js"></script>
     <script src="assets/js/jquery.magnific-popup.min.js"></script>

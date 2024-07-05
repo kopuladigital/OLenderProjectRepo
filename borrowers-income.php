@@ -36,11 +36,11 @@
     color: #000;
     font-weight: 500;
 }
-.about__content-three a
-{
-    border: 1px solid #000;
+.about__content-three a {
+    border: 1px solid #00000042;
     padding: 5px;
     border-radius: 5px;
+    border-style: dashed;
 }
 </style>
     <!-- main-area -->

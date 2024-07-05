@@ -268,9 +268,92 @@
     padding: 5px 12px;
     border-radius: 5px 0px 0px 5px;
 }
+input[type="text"] {
+     width: 100%;
+    border: 1px solid #38383842;
+    border-radius: 4px;
+    margin: 8px 0;
+    outline: none;
+    padding: 8px;
+    box-sizing: border-box;
+    transition: 0.3s;
+}
+
+input[type="text"]:focus {
+  border-color: dodgerBlue;
+  box-shadow: 0 0 8px 0 dodgerBlue;
+}
+
+.inputWithIcon input[type="text"] {
+  padding-left: 50px;
+}
+
+.inputWithIcon {
+    position: relative;
+    max-width: 300px;
+    text-align: center;
+     margin: auto;
+    margin-bottom: 10px;
+   
+}
+
+.inputWithIcon i {
+    position: absolute;
+    left: 0;
+    top: 9px;
+    padding: 8px 10px;
+    color: #ffffff;
+    transition: 0.3s;
+    font-size: 25px;
+    background: #00143d;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.inputWithIcon input[type="text"]:focus + i {
+  color: dodgerBlue;
+}
+
+.inputWithIcon.inputIconBg i {
+  background-color: #aaa;
+  color: #fff;
+  padding: 9px 4px;
+  border-radius: 4px 0 0 4px;
+}
+
+.inputWithIcon.inputIconBg input[type="text"]:focus + i {
+  color: #fff;
+  background-color: dodgerBlue;
+}
+.zipcode_section
+{
+  max-width: 800px;
+    margin: auto;
+    margin-top: 150px;
+}
+.services__content-four p {
+    margin-bottom: 20px;
+    color: #000;
+}
 </style>
     <!-- main-area -->
     <main class="fix">
+       <section class="zipcode_section" id="">
+        <div class="container">
+          <div class="row">
+            <div class="services__content-four card">
+                  <h3 style="margin-bottom: 15px;">Paying too much for your mortgage?</h3>
+                  <p>Just answer the simple questions below to calculate a lower mortgage<br> rate & payment. We make the process quick & easy.</p>
+                  <div class="inputWithIcon">
+                      <input type="text" placeholder="Zip Code" id="zip_code" maxlength="5">
+                      <i class="fas fa-map-marker-alt"></i>
+                  </div>
+                  <div class="button_div">
+                    <button class="btn btn-primary " id="btn_zip" style="margin-top: 0px;">Next</button>
+                  </div>
+              </div>
+          </div>
+        </div>
+      </section>
       <!-- ======================Step-1================= -->
         <section class="progress_from" id="progress_from" style=" display:none;">
             <div class="request__bg-two" data-background="assets/img/bg-desktop.svg"></div>
@@ -324,7 +407,7 @@
                                   </div>
                                   <p class="error" id="error-first-steps"></p>
                                   <div class="button_div">
-                                    <!-- <button class="btn btn-secondary prev-step">Back</button> -->
+                                     <button class="btn btn-secondary prev-step">Back</button>
                                   <button class="btn btn-primary " id="type_of_property_btn">Next</button>
                                   </div>
                               </div>
@@ -821,7 +904,7 @@
                                 <div class="mt-1 form__field" style="padding: 0px; text-align: left;">
                                   <label class="form__choice-wrapper">
                                     <input id="agree" type="checkbox" name="agree" value="Yes" >
-                                    <span style="font-size: 15px;">By providing your information, you agree to our <a href="terms-of-use.php" target="_blank">Terms Of Use</a>.</span>
+                                    <span style="font-size: 15px;">By providing your information, you agree to our <a href="" data-toggle="modal" data-target="#basicModal">Terms Of Use</a>.</span>
                                   </label>
                                   <p class="error hide" id="error-agree">this field required.</p>
                                 </div>
