@@ -27,11 +27,12 @@
                                 <div class="footer__social-three">
                                     <span class="title" style="color: #ffffff;">Follow Us on:</span>
                                     <ul class="list-wrap">
-                                        <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
-                                        <li><a href="javascript:void(0)"><i class="fab fa-pinterest-p"></i></a></li>
-                                        <li><a href="javascript:void(0)"><i class="fab fa-youtube"></i></a></li>
+                                        <li><a href="https://www.facebook.com/people/OLLender/61561407964481/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="https://x.com/ollender1" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                                        <li><a href="https://www.instagram.com/ollender1/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                        <li><a href="https://www.pinterest.com/ollender1/" target="_blank"><i class="fab fa-pinterest-p"></i></a></li>
+                                        <li><a href="https://www.linkedin.com/company/ollender" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                                        <li><a href=" https://www.tiktok.com/@ollender1" target="_blank"><i class="fab fa-tiktok"></i></a></li>
                                     </ul>
                                 </div>
                             </div>

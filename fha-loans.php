@@ -71,12 +71,8 @@
                             <div class="about-bottom about-bottom-two">
                                 
                                 <div class="about__phone">
-                                    <div class="icon">
-                                        <i class="flaticon-phone-call"></i>
-                                    </div>
                                     <div class="content">
-                                        <span>Toll Free Call</span>
-                                        <a href="tel:(786) 835-7247">(786) 835-7247</a> | <a class='btn btn_clss' href='#'>FHA Loan Qualifier!</a>
+                                         <a class='btn btn_clss' href='fha-loans-quote.php'>FHA Loan Qualifier!</a>
                                     </div>
                                 </div>
                             </div>
@@ -120,7 +116,7 @@
                         <div class="about__content-three box_xxx">
                             <div class="section-title tg-heading-subheading animation-style3 h2">
                                 <h2 class="title tg-element-title">Get Your FHA Loan Quote Now!</h2>
-                                <a class='btn btn_clss' href='#'>I Want My FREE FHA Loan Quote!</a>
+                                <a class='btn btn_clss' href='fha-loans-quote.php'>I Want My FREE FHA Loan Quote!</a>
                             </div>                           
                         </div>
                     </div>
