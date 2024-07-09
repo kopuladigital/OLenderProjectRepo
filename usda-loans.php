@@ -68,15 +68,10 @@
                                 <h2 class="title tg-element-title">Buy a Home Outside the City Limits with USDA home Loans!</h2>
                             </div>
                             <p>There are many benefits of a USDA home loan. One of the biggest benefits is that no down payment is required.* Borrowers who qualify for a USDA home loan have the flexibility to pay nothing out of pocket for a down payment.</p>
-                            <div class="about-bottom about-bottom-two">
-                                
+                            <div class="about-bottom about-bottom-two">                               
                                 <div class="about__phone">
-                                    <div class="icon">
-                                        <i class="flaticon-phone-call"></i>
-                                    </div>
                                     <div class="content">
-                                        <span>Toll Free Call</span>
-                                        <a href="tel:(786) 835-7247">(786) 835-7247</a> | <a class='btn btn_clss' href='#'>USDA Loan Qualifier!</a>
+                                         <a class='btn btn_clss' href='usda-loans-quote.php'>USDA Loan Qualifier!</a>
                                     </div>
                                 </div>
                             </div>
@@ -118,7 +113,7 @@
                         <div class="about__content-three box_xxx">
                             <div class="section-title tg-heading-subheading animation-style3 h2">
                                 <h2 class="title tg-element-title">Get Your USDA Loan Quote Now!</h2>
-                                <a class='btn btn_clss' href='#'>I Want My FREE USDA Loan Quote!</a>
+                                <a class='btn btn_clss' href='usda-loans-quote.php'>I Want My FREE USDA Loan Quote!</a>
                             </div>                           
                         </div>
                     </div>

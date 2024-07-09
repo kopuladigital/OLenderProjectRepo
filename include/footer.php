@@ -12,6 +12,7 @@
     color: #fff;
     text-decoration: none;
 }
+
    </style>
     <footer>
         <div class="footer__area-three">
@@ -123,13 +124,13 @@
     <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h4 class="modal-title" id="myModalLabel">OLLender Terms and Conditions</h4>
+        <h4 class="modal-title" id="myModalLabel">LeadCont Terms and Conditions</h4>
         <button type="button" class="close btn_clls" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
-        <p>By submitting the form on the website, you acknowledge that you permit OLLender to contact you at the number and/or email address I have provided above with automated technology in relation to this inquiry, even if you are on a Do Not Call list, via phone, e-mail, or text message. I understand that making a purchase is not consenting to receiving communications from ollender.com.</p>
+        <p>By submitting the form on the website, you acknowledge that you permit LeadCont to contact you at the number and/or email address I have provided above with automated technology in relation to this inquiry, even if you are on a Do Not Call list, via phone, e-mail, or text message. I understand that making a purchase is not consenting to receiving communications from leadcont.com.</p>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-primary" data-dismiss="modal">Accept</button>

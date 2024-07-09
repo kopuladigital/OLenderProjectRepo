@@ -69,14 +69,9 @@
                             </div>
                             <p>There are many benefits to jumbo loans. One of the biggest benefits is that financing options are available up to $3,000,000. This may provide convenience to many borrowers.</p>
                             <div class="about-bottom about-bottom-two">
-                                
                                 <div class="about__phone">
-                                    <div class="icon">
-                                        <i class="flaticon-phone-call"></i>
-                                    </div>
                                     <div class="content">
-                                        <span>Toll Free Call</span>
-                                        <a href="tel:(786) 835-7247">(786) 835-7247</a> | <a class='btn btn_clss' href='#'>Jumbo Loan Qualifier!</a>
+                                        <a class='btn btn_clss' href='jumbo-loans-quote.php'>Jumbo Loan Qualifier!</a>
                                     </div>
                                 </div>
                             </div>
@@ -119,7 +114,7 @@
                         <div class="about__content-three box_xxx">
                             <div class="section-title tg-heading-subheading animation-style3 h2">
                                 <h2 class="title tg-element-title">Get Your VA Loan Quote Now!</h2>
-                                <a class='btn btn_clss' href='#'>I Want My FREE VA Loan Quote!</a>
+                                <a class='btn btn_clss' href='jumbo-loans-quote.php'>I Want My FREE VA Loan Quote!</a>
                             </div>                           
                         </div>
                     </div>

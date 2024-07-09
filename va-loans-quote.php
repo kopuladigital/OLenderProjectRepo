@@ -345,8 +345,8 @@ input[type="text"]:focus {
         <div class="container">
           <div class="row">
             <div class="services__content-four card">
-                  <h3 style="margin-bottom: 15px;">Today's FHA Loan Rates</h3>
-                  <p>FHA loan rates change daily and vary depending on your unique <br>situation. Get your FREE customized quote here!</p>
+                  <h3 style="margin-bottom: 15px;">Today's VA Loan Rates</h3>
+                  <p>VA loan rates change daily and vary depending on your unique <br>situation. Get your FREE customized quote here!</p>
                   <div class="inputWithIcon">
                       <input type="text" placeholder="Zip Code" id="zip_code" maxlength="5">
                       <i class="fas fa-map-marker-alt"></i>
