@@ -71,7 +71,7 @@
                                 
                                 <div class="about__phone">
                                     <div class="content">
-                                         <a class='btn btn_clss' href='#'>203K Loan Qualifier!</a>
+                                         <a class='btn btn_clss' href='203k-loans-quote.php'>203K Loan Qualifier!</a>
                                     </div>
                                 </div>
                             </div>
@@ -112,7 +112,7 @@
                         <div class="about__content-three box_xxx">
                             <div class="section-title tg-heading-subheading animation-style3 h2">
                                 <h2 class="title tg-element-title">Get Your 203K Loan Quote Now!</h2>
-                                <a class='btn btn_clss' href='#'>I Want My FREE 203K Loan Quote!</a>
+                                <a class='btn btn_clss' href='203k-loans-quote.php'>I Want My FREE 203K Loan Quote!</a>
                             </div>                           
                         </div>
                     </div>

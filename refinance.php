@@ -1,6 +1,6 @@
 <?php include_once ("include/header.php") ?>
 <style>
-	.about__img-wrap-three > img:nth-child(1) {
+    .about__img-wrap-three > img:nth-child(1) {
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     -o-border-radius: 10px;
@@ -9,22 +9,23 @@
 }
 .btn_clss
 {
-	font-size: 17px !important;
+    font-size: 17px !important;
     margin-left: 20px !important;
     color: #fff !important;
     text-transform: capitalize !important;
 }
 .box_xxx
 {
-	border: 1px solid #0000001c;
+    border: 1px solid #0000001c;
     padding: 15px;
     border-radius: 10px;
     text-align: center;
     background: #fff;
+    margin-top: 25px;
 }
 .h2 h2
 {
-	    margin-bottom: 15px !important;
+        margin-bottom: 15px !important;
 }
 .about__content-three > p {
     margin-bottom: 15px;
@@ -33,7 +34,7 @@
 }
 .about__content-three ul li
 {
-	    margin-bottom: 10px;
+        margin-bottom: 10px;
     color: #000;
     font-weight: 500;
 }
@@ -67,7 +68,7 @@
                             <div class="section-title mb-25 tg-heading-subheading animation-style3">
                                 <h2 class="title tg-element-title">Why Refinance?</h2>
                             </div>
-                            <p>Refinancing is the process of paying off your existing mortgage with a new mortgage. Typically, you refinance your mortgage to reduce your interest rate and monthly payment or change the length (or term) of your mortgage. You may also refinance to take cash out from your home’s equity.</p>
+                            <p>Refinancing a mortgage involves replacing your current loan with a new one, often to lower interest rates and monthly payments, adjust the loan term, consolidate debts, or access home equity for significant expenses. This financial strategy can help homeowners manage their budgets more effectively, reduce overall borrowing costs, and leverage their property's value to fund major needs or investments. For those looking to streamline their financial obligations or invest in their future, refinancing can be a beneficial route.</p>
                             <div class="about-bottom about-bottom-two">
                                 
                                 <div class="about__phone">
@@ -90,24 +91,20 @@
                     <div class="col-lg-12">
                         <div class="about__content-three">
                             <div class="section-title mb-25 tg-heading-subheading animation-style3">
-                                <h2 class="title tg-element-title">Home Refinance Loans without the Hassle!</h2>
+                                <h2 class="title tg-element-title">The Home Refinance Process</h2>
                             </div>
-                            <p>Refinancing could save you a considerable amount of money over the life of your loan and potentially improve your overall financial outlook.</p>
-                            <p>We’re here to make the home refinance process easier, with tools and knowledge that will help guide you along the way, starting with a refinance analysis request.</p>
-                            <p>We’ll help you clearly see differences between loan programs, allowing you to choose the right one for you.</p>    
-                            <p><strong>The Home Refinance Process</strong></p>   
-                            <p>Here’s how our home refinance process works:</p> 
+                            <p>Here’s how our home refinance process works:</p>  
+                            <p><strong>Complete our simple home refinance analysis request: </strong> Start your journey by providing some basic information which helps us understand your specific needs.</p>   
+                            <p><strong>Receive options based on your unique criteria and scenario:</strong> Based on your inputs, we'll offer various loan options that suit your financial situation.</p>   
+                            <p><strong>Compare mortgage interest rates and terms:</strong> We provide detailed comparisons to help you see how different options stack up against each other.</p>   
+                            <p><strong>Choose the offer that best fits your needs:</strong> Select from a variety of loan types and terms to find the perfect match for your refinancing goals. Options include:</p>     
                             <ul>
-                            	<li>Complete our simple home refinance analysis request</li>
-                            	<li>Receive options based on your unique criteria and scenario</li>
-                            	<li>Compare mortgage interest rates and terms</li>
-                            	<li>Choose the offer that best fits your needs</li>
-                            	<li>Fixed-Rate Mortgage</li>
-                            	<li>Adjustable-Rate Mortgage (ARM)</li>
-                            	<li>Conforming Loans</li>
-                            	<li>Jumbo & Super Jumbo Loans</li>
-                            	<li>FHA, VA & USDA Loans</li>
-                            	<li>Terms from 5 to 30 Years</li>
+                                <li>Fixed-Rate Mortgage: Enjoy the security of a constant interest rate throughout the term of your loan.</li>
+                                <li>Adjustable-Rate Mortgage (ARM): Benefit from lower initial rates with the flexibility of adjustments later on.</li>
+                                <li>Conforming Loans: Standard loans that conform to the limits set by Fannie Mae and Freddie Mac.</li>
+                                <li>Jumbo & Super Jumbo Loans: For larger loan amounts that exceed the typical lending limits.</li>
+                                <li>FHA, VA & USDA Loans: Specialized loans that offer benefits for specific groups and needs.</li>
+                                <li>Terms from 5 to 30 Years: Choose the duration that best suits your long-term financial plans.</li>
                             </ul>                   
                         </div>
                     </div>

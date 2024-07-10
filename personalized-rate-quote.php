@@ -133,31 +133,90 @@ label {
 {
     margin-right: 8px;
 }
+/* gaurav style */
+
+.hide
+{
+  display:none;
+}
+.margin-t12rem
+{
+  margin-top: 12rem;
+}
+.error{
+    color:white;
+}
+/* end here */
+.last_section
+{
+        padding: 150px 0 100px;
+}
+.last_section .call_bnt
+{
+        max-width: 700px;
+     margin: auto;
+    text-align: center;
+}
+.call_bnt h3
+{
+        font-size: 25px;
+    margin-bottom: 30px;
+}
+.call_bnt a span
+{
+        background: #00143d;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-size: 24px;
+    font-weight: 700;
+    color: #fff;
+}
+.call_bnt p {
+    max-width: 580px;
+    margin: auto;
+    margin-top: 30px;
+    color: #000;
+    border: 1px solid #0000001c;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border-style: dashed;
+}
+@media only screen and (max-width: 767px) {
+    .services__item-four_1 {
+    padding: 10px;
+}
+.call_bnt a span {
+    padding: 10px 10px;
+    font-size: 20px;
+}
+}
 </style>
     <!-- main-area -->
     <main class="fix">
 
         <!-- banner-area -->
-        <section class="banner__area-two banner__bg-two" data-background="assets/img/banner_bg_000.jpg">
+        <section class="banner__area-two banner__bg-two" data-background="assets/img/banner_bg_000.jpg" id="first-div">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="services__item-four_1 shine-animate-item">
                         <div class="services__content-four">
-                            <form action="" method="post" class="quote-form">
+                           
                             <h2 class="title">Get a FREE Personalized Rate Quote Now!</h2>
                               <div class="row">
                                 <div class="col-md-6">
                                     <div class="quform-element form-group mb_15">
                                         <label for="first_name">First Name <span>*</span></label>
-                                        <input type="text" name="first_name" id="first_name" class="form-control" placeholder="First Name" required="">
+                                        <input type="text" name="first_name" id="first_name" class="form-control" placeholder="First Name" >
+                                        <span class="error" id="error-first-name"></span>
                                     </div>
                                 </div>
 
                                 <div class="col-md-6">
                                     <div class="quform-element form-group mb_15">
                                         <label for="last_name">Last Name <span>*</span></label>
-                                        <input type="text" name="last_name" id="last_name" class="form-control" placeholder="Last Name" required="">
+                                        <input type="text" name="last_name" id="last_name" class="form-control" placeholder="Last Name" >
+                                        <p class="error" id="error-last-name"></p>
                                     </div>
                                 </div>
                             </div>
@@ -166,13 +225,16 @@ label {
                                 <div class="col-md-6">
                                     <div class="quform-element form-group mb_15">
                                         <label for="phone_number">Phone Number <span>*</span></label>
-                                        <input type="text" name="phone_number" id="phone_number" class="form-control" placeholder="Phone Number" required="">
+                                        <input type="text" name="phone_number" id="phone_number" class="form-control numbers" placeholder="Phone Number" >
+                                        <p class="error" id="error-phone-number"></p>
                                     </div>
                                 </div>
                                <div class="col-md-6">
                                     <div class="quform-element form-group mb_15">
                                         <label for="email">Email </label>
                                         <input type="email" name="email" id="email" class="form-control" placeholder="@email">
+                                        <p class="error" id="error-email"></p>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -180,7 +242,8 @@ label {
                             <div class="col-md-6">
                                 <div class="quform-element form-group mb_15">
                                     <label for="zip_code">Zipcode <span>*</span></label>
-                                    <input type="text" name="zip_code" id="zip_code" class="form-control" placeholder="Zipcode">
+                                    <input type="text" name="zip_code" id="zip_code" class="form-control numbers" placeholder="Zipcode" maxlength="5">
+                                    <p class="error" id="error-zip"></p>
                                 </div>
                             </div>
 
@@ -188,29 +251,34 @@ label {
                                 <p class="titel-text">Prove Your Humanity:</p>
                                 <div class="checker-inner-box">
                                     <div class="checker-box">
-                                         <input type="text" class="form-control" id="num1" name="num1" value="4" readonly="">
+                                         <input type="text" class="form-control" id="num1" name="num1" value="<?php echo(rand(1,9)); ?>" readonly="">
+
                                     </div>
                                     <span class="sine">+</span>
                                     <div class="checker-box">
-                                        <input type="text" class="form-control" id="num2" name="num2" value="9" readonly="">
+                                        <input type="text" class="form-control" id="num2" name="num2" value="<?php echo(rand(1,9)); ?>" readonly="">
                                     </div>
                                     <span class="sine">=</span>
                                     <div class="resualt-box">
-                                        <input type="text" class="form-control" id="result" name="result" placeholder="value">
+                                        <input type="text" class="form-control numbers" id="result" name="result" placeholder="value">
                                     </div>
+                                    
                                 </div>
+                               
                             </div>
+                            <span class="error" id="error-result"></span>
 
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="check-box check_box_b" style="    margin-top: 15px;">
                                         <div class="ckeck_by">
-                                            <input type="checkbox" id="chkDisclaimer" class="radio_btn" name="chkDisclaimer" value="clicking" required="">
+                                        <input id="agree" type="checkbox" name="agree" value="Yes" >
                                         <label for="chkDisclaimer">
                                             By providing your information, you agree to our <a href="" data-toggle="modal" data-target="#basicModal"><strong>Terms Of Use</strong></a>.
                                         </label>
                                         </div>
                                     </div>
+                                    <div><span class="error" id="error-agree"></span></div>
 
                                 </div>
                             </div>
@@ -220,21 +288,148 @@ label {
                                 <div class="col-md-12">
                                 <div class="quform-submit-inner">
                                     <input type="hidden" id="form_submit_ip" name="form_submit_ip" value="103.165.115.152">
-                                    <input type="submit" name="submit" value="Submit" class="btn">
+                                    
+                                    <button class="btn btn-primary" id="personalized-quote">Submit</button>
                                 </div>
                                 </div>
                             </div>
-                        </form>
+                       
                         </div>
                         </div>
                     </div>
                 </div>
             </div>
+        </section>  
+
+        <section class="last_section" id="welcome" data-background="assets/img/banner_bg_000.jpg">
+            <div class="thank-you-message card call_bnt" style="padding: 40px 40px;" >
+                <h3 style="">Thank you for showing your interest. By submitting the information you allow us to contact you back. Our team of experts will contact you shortly</h3>
+                <a href="tel:(888) 241-3106"><span>Call Us: (888) 241-3106</span></a>
+                <p>By clicking & submitting this form you authorise us to call you back even if your number is in National or Federal Do Not Call List</p>
+            </div>      
         </section>
+        
         <!-- banner-area-end -->
        
     </main>
     <!-- main-area-end -->
-
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js'></script>
+    <script>
+    $(document).ready(function(){
+         
+        $('.numbers').keypress(function (e) {
+         if (String.fromCharCode(e.keyCode).match(/[^0-9]/g)) return false;
+        });
+        document.getElementById('phone_number').addEventListener('input', function (e) {
+        var x = e.target.value.replace(/\D/g, '').match(/(\d{0,3})(\d{0,3})(\d{0,4})/);
+        e.target.value = !x[2] ? x[1] : '(' + x[1] + ')'+'-'+ x[2] + (x[3] ? '-' + x[3] : '');
+        });
+       
+         $("#personalized-quote").click(function(){  
+                    
+            first_name = $('#first_name').val();
+            last_name = $('#last_name').val();
+            phone_number = $('#phone_number').val();
+            address = $('#email').val();
+            result = $('#result').val();
+            zip_code = $('#zip_code').val();
+            var num1 = parseInt($('#num1').val());
+            var num2 = parseInt($('#num2').val());
+            var num3 = num1 + num2;
+            // alert(num3);
+            var zip_code_lenght = $('#zip_code').val().length;
+            var phone_length =$('#phone_number').val().length;       
+            agree = $('#agree').is(':checked');
+            var emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+            var regex = /^[A-Za-z\s]+$/;
+             var isValid = true; 
+            if(!first_name){
+                isValid = false;
+                $('#error-first-name').html('this field required');       
+            }else if(!regex.test(first_name))
+            { 
+                isValid = false;
+                $('#error-first-name').html('Name must not contain numbers or special characters');
+            }else if(!last_name){
+                isValid = false;
+                $('#error-last-name').html('this field required');       
+            }else if(!regex.test(last_name))
+            { 
+                isValid = false;
+                $('#error-last-name').html('Name must not contain numbers or special characters');
+            }else if(!phone_number){
+                isValid = false;
+                $('#error-phone-number').html('this field required'); 
+            }else if(phone_length != 14){
+                isValid = false;
+                $('#error-phone-number').html('Please Enter  Valid Phone Number');
+            }
+            else if(!address){
+                isValid = false;
+                $('#error-email').html('this field required'); 
+            }else if(!emailRegex.test(address)){
+                isValid = false;
+                $('#error-email').html('Please enter a valid email address'); 
+            }else if(!zip_code){
+                $('#error-zip').html('This field required');
+            }else if(zip_code_lenght != 5){
+                $('#error-zip').html('plese enter 5 digit zip code');
+            }
+            else if(!result){
+                
+                isValid = false;
+                $('#error-result').html('this field required');
+            }else if(result != num3){
+                isValid = false;
+                $('#error-result').html('plese check result');
+            }
+            else if(!agree){
+                isValid = false;
+                $('#error-agree').html('this field required');
+            }
+            else{
+                // alert("all done");
+                
+                $.ajax({
+                        url: "save_personalized_rate_quote.php",
+                        type: "POST",
+                        data: {
+                            first_name: first_name,
+                            last_name : last_name,
+                            phone_number: phone_number,                            
+                            address: address, 
+                            zip_code : zip_code,
+                            result : result,
+                            agree : agree
+                                 
+                        },
+                        cache: false,
+                        success: function(dataResult){
+                            var dataResult = JSON.parse(dataResult);
+                            if(dataResult.statusCode==200){
+                                
+                                
+                                $("#first-div").hide();
+                               
+                                $("#welcome").show();
+                                //  $('#success').html('Recored Saved successfully !');   
+                                        
+                            }
+                            else if(dataResult.statusCode==201){
+                                $("#first-div").hide();
+                                // this is error message
+                                alert("Plz check connection");
+                                
+                                
+                            }
+                            
+                        }
+                    });
+             }
+        });
+        
+        
+    });
+</script>
 <?php include_once ("include/footer.php") ?>
  
