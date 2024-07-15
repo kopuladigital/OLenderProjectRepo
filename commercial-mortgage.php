@@ -99,6 +99,27 @@
 
 }
 }
+.services__item-three ul li
+{
+    text-align: left;
+    font-size: 18px;
+    color: #fff;
+    margin-bottom: 15px;
+}
+.services__item-three h2
+{
+    text-align: left;
+    color: #fff;
+    margin-bottom: 15px;
+}
+.about__content-three > p {
+    margin-bottom: 10px;
+    width: 100%;
+    color: #000;
+}
+.mb-50 {
+    margin-bottom: 25px;
+}
 </style>
     <!-- main-area -->
     <main class="fix">
@@ -145,12 +166,10 @@
                     <div class="col-lg-6">
                         <div class="about__content-three">
                             <div class="section-title mb-25 tg-heading-subheading animation-style3">
-                                <h2 class="title tg-element-title">Commercial Property Loans</h2>
+                                <h2 class="title tg-element-title">Defining a Commercial Mortgage</h2>
                             </div>
-                            <p>Being overseas, finding suitable financing options for U.S. commercial real estate is very difficult.</p>
-                            <p>America Mortgages has the dedicated U.S. Commercial Lending Team based in Asia has an extensive network of U.S. lending relationships: major banks, regional banks, pension funds, and real estate lenders, to name a few.</p>
-                            <p>Our team understands the needs of a Foreign borrower, international income, and no U.S. credit.</p>  
-                            <p>We can help finance any of the major asset classes including commercial, hospitality, industrial, multi-family, special-use and land.</p>                        
+                            <p>A commercial mortgage is a loan taken out on commercial real estate (like office buildings, shopping centers, or industrial warehouses) rather than residential property. This type of mortgage is typically used by businesses to buy, develop, or refinance commercial properties.</p>
+                            <p>America Mortgages has the dedicated U.S. Commercial Lending Team based in Asia has an extensive network of U.S. lending relationships: major banks, regional banks, pension funds, and real estate lenders, to name a few.</p>                        
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-8">
@@ -169,37 +188,27 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-12">
                         <div class="section-title white-title mb-50 tg-heading-subheading animation-style3">
-                            <h2 class="title tg-element-title" style="color: #fff;">Commercial Mortgages for Overseas Borrowers</h2>
-                            <p style="color: #fff;">We offer 150 U.S. bank and lender programs direct to our overseas clients – for both U.S. Citizens and Foreign Nationals.</p>
+                            <h2 class="title tg-element-title" style="color: #fff;">Key Differences from Residential Mortgages</h2>
+                            
                         </div>
                     </div>
                 </div>
                 <div class="row justify-content-center gutter-24">
                     <div class="col-lg-12 col-md-12">
                         <div class="services__item-three">
-                            <div class="services__item-top">
-                                <div class="services__item-top-title">
-                                    <h2 class="title">U.S. Citizens living overseas (Expats)</h2>
-                                </div>
-                            </div>
+                            <p style="color: #fff; text-align: left;">Commercial mortgages differ from residential loans in several key aspects:</p>
+                            <ul>
+                                <li>Loan Terms: Commercial loans often have shorter term lengths and might involve balloon payments.</li>
+                                <li>Interest Rates: Typically higher than residential rates due to the increased risk.</li>
+                                <li>Underwriting Criteria: Lenders examine the business's financial health, the property's potential to generate income, and the borrower's creditworthiness.</li>
+                            </ul>
                             <div class="services__content-three">
-                                <p>We offer those with established credit exactly what you would find at your bank back home, but since we work with lenders in all 50 states, we are sure to find the best loan option available. Even for U.S. Citizens who have been “away from home” for an extended period and lack the depth of credit, we have solutions to help improve your credit as well as programs that accept your overseas credit and income.</p>
+                                <h2>Preparing for Application</h2>
+                                <p>To apply for a commercial mortgage, gather detailed financial statements, business plans, and projections that demonstrate your business's ability to repay the loan. A thorough property appraisal and environmental assessments are also crucial.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-12 col-md-12">
-                        <div class="services__item-three">
-                            <div class="services__item-top">
-                                <div class="services__top-title">
-                                    <h2 class="title">Foreign Nationals living overseas</h2>
-                                </div>
-                            </div>
-                            <div class="services__content-three">
-                                <p>Borrowers living overseas do not need to have U.S. credit to apply for a U.S. mortgage. We accept an international credit report from your home country or country of residence. There are often situations where real estate investors may not have established credit in their home country, or that country doesn’t have a standard credit reporting agency. In these cases, our in-house processing team has created solutions to address the lack of overseas credit by accepting a bank reference letter, a local accountant letter, to name a few.</p>
-                            </div>
-                        </div>
-                    </div>
-
+                    
                 </div>
             </div>
         </section>
@@ -215,16 +224,31 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about__content-three ul_cls_ss">
-                            <div class="section-title mb-25 tg-heading-subheading animation-style3">
-                                <h2 class="title tg-element-title">Key Loan Highlights</h2>
-                            </div>
+                            <h2>Making Strategic Choices - Selecting the Right Commercial Mortgage</h2>
+                            <p><strong>Exploring Loan Types</strong></p>
+                            <p>There are several types of commercial mortgages to consider, based on your needs:</p>
                             <ul>
-                            	<li>Minimum loan amount is $1,000,000 and a maximum of $100,000,000</li>
-                            	<li>No U.S. credit score required</li>
-                            	<li>Available in all 50 states</li>
-                            	<li>Interest-Servicing Only (Interest-Only) payments are also available</li>
-                            	<li>Each loan structured specifically to your requirements</li>
+                            	<li>Traditional Commercial Mortgages: Best for buying new properties or refinancing existing ones.</li>
+                            	<li>SBA Loans: Offers lower down payments and longer repayment terms, ideal for small businesses.</li>
+                            	<li>Bridge Loans: Short-term options for immediate financing needs while waiting for a more permanent solution.</li>
                             </ul>                          
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+
+        <section class="about__area-three about__bg-two" data-background="assets/img/banner_bg_000.jpg">
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+                    <div class="col-lg-12">
+                        <div class="about__content-three ul_cls_ss">
+                            <h2>Assessing Rates and Terms</h2>
+                            <p>Rates for commercial mortgages can be fixed or variable, and choosing between them depends on your risk tolerance and financial outlook. It’s also important to understand the fees involved, such as origination fees, appraisal fees, and potential prepayment penalties.</p>
+                            <h2>Closing the Deal</h2>
+                            <p>Finalizing a commercial mortgage involves several steps. Ensure all paperwork is accurate and complete. Negotiate terms that suit your business’s growth and financial strategies. Once all terms are agreed upon, proceed with the legal closure to secure your property financing.</p>
+                            <p>This structure offers a comprehensive overview of commercial mortgages, tailored to engage and inform the readers of ollender.com, helping them make informed decisions about their commercial property financing.</p>                                         
                         </div>
                     </div>
                     

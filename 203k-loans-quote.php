@@ -337,7 +337,14 @@ input[type="text"]:focus {
     margin-bottom: 20px;
     color: #000;
 }
-
+.back_btn
+   {
+    border: none;
+    margin-top: 15px;
+    padding: 5px 35px;
+    font-weight: 400;
+    color: #000;
+   }
 </style>
     <!-- main-area -->
     <main class="fix">
@@ -391,9 +398,9 @@ input[type="text"]:focus {
                                     </label>
                                   </div>
                                   <div class="button_div">
-                                    <button class="btn btn-secondary prev-step">Back</button>
                                   <button class="btn btn-primary next-step">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div> 
                           <!--============Step-1==============-->
@@ -440,9 +447,9 @@ input[type="text"]:focus {
                                   </div>
                                   <p class="error" id="error-first-steps"></p>
                                   <div class="button_div">
-                                     <button class="btn btn-secondary prev-step">Back</button>
                                     <button class="btn btn-primary next-step">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div> 
 
@@ -497,9 +504,9 @@ input[type="text"]:focus {
                                     </label>
                                   </div>
                                   <div class="button_div">
-                                    <button class="btn btn-secondary prev-step">Back</button>
                                     <button class="btn btn-primary next-step">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                               </div>
                           <!--============Step-2==============-->
@@ -528,9 +535,9 @@ input[type="text"]:focus {
                                   </div>
 
                                   <div class="button_div">
-                                    <button class="btn btn-secondary prev-step">Back</button>
                                     <button class="btn btn-primary next-step">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div> 
                           <div class="step-form-step">
@@ -573,9 +580,9 @@ input[type="text"]:focus {
                                   </div>
 
                                   <div class="button_div">
-                                    <button class="btn btn-secondary prev-step">Back</button>
                                     <button class="btn btn-primary next-step">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div> 
                           <div class="step-form-step">
@@ -609,9 +616,9 @@ input[type="text"]:focus {
                                   </div>
 
                                   <div class="button_div">
-                                    <button class="btn btn-secondary prev-step">Back</button>
                                     <button class="btn btn-primary next-step">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div>
 
@@ -626,9 +633,9 @@ input[type="text"]:focus {
                                   </div>
 
                                   <div class="button_div">
-                                    <button class="btn btn-secondary prev-step">Back</button>
                                     <button class="btn btn-primary next-step">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div>
                           <div class="step-form-step">
@@ -670,9 +677,9 @@ input[type="text"]:focus {
                                   </div>
 
                                   <div class="button_div">
-                                    <button class="btn btn-secondary prev-step">Back</button>
                                     <button class="btn btn-primary next-step">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div>
                            <div class="step-form-step">
@@ -698,9 +705,9 @@ input[type="text"]:focus {
                                   </div>
 
                                   <div class="button_div">
-                                    <button class="btn btn-secondary prev-step">Back</button>
                                     <button class="btn btn-primary next-step">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div>
                           <div class="step-form-step">
@@ -714,9 +721,9 @@ input[type="text"]:focus {
                                   </div>
 
                                   <div class="button_div">
-                                    <button class="btn btn-secondary prev-step">Back</button>
                                     <button class="btn btn-primary next-step">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div>
                           <div class="step-form-step">
@@ -759,9 +766,9 @@ input[type="text"]:focus {
                                   </div>
 
                                   <div class="button_div">
-                                    <button class="btn btn-secondary prev-step">Back</button>
                                     <button class="btn btn-primary next-step">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div>
                           <div class="step-form-step">
@@ -787,9 +794,9 @@ input[type="text"]:focus {
                                   </div>
 
                                   <div class="button_div">
-                                    <button class="btn btn-secondary prev-step">Back</button>
                                     <button class="btn btn-primary next-step">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div>
                           <div class="step-form-step">
@@ -815,9 +822,9 @@ input[type="text"]:focus {
                                   </div>
 
                                   <div class="button_div">
-                                    <button class="btn btn-secondary prev-step">Back</button>
                                     <button class="btn btn-primary next-step">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div>
                           <div class="step-form-step">
@@ -843,9 +850,9 @@ input[type="text"]:focus {
                                   </div>
 
                                   <div class="button_div">
-                                    <button class="btn btn-secondary prev-step">Back</button>
                                     <button class="btn btn-primary next-step">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div>
                           <div class="step-form-step">
@@ -871,9 +878,9 @@ input[type="text"]:focus {
                                   </div>
 
                                   <div class="button_div">
-                                    <button class="btn btn-secondary prev-step">Back</button>
                                     <button class="btn btn-primary next-step">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div>
                           <div class="step-form-step">

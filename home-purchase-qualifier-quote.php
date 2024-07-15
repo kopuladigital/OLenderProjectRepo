@@ -335,6 +335,14 @@ input[type="text"]:focus {
     margin-bottom: 20px;
     color: #000;
 }
+.back_btn
+   {
+    border: none;
+    margin-top: 15px;
+    padding: 5px 35px;
+    font-weight: 400;
+    color: #000;
+   }
 </style>
     <!-- main-area -->
     <main class="fix">
@@ -408,9 +416,9 @@ input[type="text"]:focus {
                                   </div>
                                   <p class="error" id="error-first-steps"></p>
                                   <div class="button_div">
-                                     <button class="btn btn-secondary prev-step">Back</button>
                                   <button class="btn btn-primary " id="type_of_property_btn">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div> 
                           <!--============Step-1==============-->
@@ -467,9 +475,9 @@ input[type="text"]:focus {
                                   </div>
                                   <p class="error" id="error-second-steps"></p>
                                   <div class="button_div">
-                                    <button class="btn btn-secondary" onclick="privousSteps(1,15)">Back</button>
                                     <button class="btn btn-primary " id="credit_score">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                               </div>
                           <!--============Step-2==============-->
@@ -499,9 +507,9 @@ input[type="text"]:focus {
                                   </div>
                                   <div class="button_div">
                                   <p class="error" id="error-thired-steps"></p>
-                                    <button class="btn btn-secondary" onclick="privousSteps(2,15)">Back</button>
                                     <button class="btn btn-primary " id="purches_home">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div> 
                           <!--============Step-3==============-->
@@ -549,9 +557,9 @@ input[type="text"]:focus {
                                   </div>
                                   <p class="error" id="error-fifth-steps"></p>
                                   <div class="button_div">
-                                  <button class="btn btn-secondary" onclick="privousSteps(4,15)">Back</button>
                                     <button class="btn btn-primary next-step" id="investment-btn">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div>
                           <!--============Step-4==============-->
@@ -590,9 +598,9 @@ input[type="text"]:focus {
                                   </div>
                                   <p class="error" id="error-fifth-steps"></p>
                                   <div class="button_div">
-                                  <button class="btn btn-secondary" onclick="privousSteps(4,15)">Back</button>
                                     <button class="btn btn-primary next-step" id="investment-btn">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div>
                           <!--============Step-5==============--> 
@@ -614,9 +622,9 @@ input[type="text"]:focus {
                                 </div>
                                 <div class="button_div">
                                     
-                                    <button class="btn btn-secondary" onclick="privousSteps(3,15)">Back</button>
                                     <button class="btn btn-primary " id="step_first_from">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div>
                           <!--============Step-5==============--> 
@@ -646,9 +654,9 @@ input[type="text"]:focus {
                                   </div>
                                   <p class="error" id="error-sixth-steps"></p>
                                   <div class="button_div">
-                                  <button class="btn btn-secondary" onclick="privousSteps(5,15)">Back</button>
                                     <button class="btn btn-primary next-step" id="rate-btn">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div>
                           <!--============Step-6==============--> 
@@ -663,10 +671,9 @@ input[type="text"]:focus {
                                 </div>
                                 
                                 <div class="button_div">
-                                    
-                                    <button class="btn btn-secondary" onclick="privousSteps(3,15)">Back</button>
                                     <button class="btn btn-primary " id="step_first_from">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div> 
                           <div class="step-form-step">
@@ -718,9 +725,9 @@ input[type="text"]:focus {
                                   </div>
                                   <p class="error" id="error-eight-steps"></p>
                                   <div class="button_div">
-                                  <button class="btn btn-secondary" onclick="privousSteps(7,15)">Back</button>
                                     <button class="btn btn-primary next-step" id="refinance-btn">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div> 
                           
@@ -747,9 +754,9 @@ input[type="text"]:focus {
                                   </div>
                                   <p class="error" id="error-tenth-steps"></p>
                                   <div class="button_div">
-                                  <button class="btn btn-secondary" onclick="privousSteps(9,15)">Back</button>
                                     <button class="btn btn-primary next-step" id="foreclosure-btn">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div>
                           <div class="step-form-step">
@@ -775,9 +782,9 @@ input[type="text"]:focus {
                                   </div>
                                   <p class="error" id="error-eleventh-steps"></p>
                                   <div class="button_div">
-                                  <button class="btn btn-secondary" onclick="privousSteps(10,15)">Back</button>
                                     <button class="btn btn-primary next-step" id="income-btn">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div>
 
@@ -804,9 +811,9 @@ input[type="text"]:focus {
                                   </div>
                                   <p class="error" id="error-eleventh-steps"></p>
                                   <div class="button_div">
-                                  <button class="btn btn-secondary" onclick="privousSteps(10,15)">Back</button>
                                     <button class="btn btn-primary next-step" id="income-btn">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div>
 
@@ -833,9 +840,9 @@ input[type="text"]:focus {
                                   </div>
                                   <p class="error" id="error-eleventh-steps"></p>
                                   <div class="button_div">
-                                  <button class="btn btn-secondary" onclick="privousSteps(10,15)">Back</button>
                                     <button class="btn btn-primary next-step" id="income-btn">Next</button>
                                   </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div>
 
@@ -868,7 +875,6 @@ input[type="text"]:focus {
                                   <p class="error hide" id="error-agree">this field required.</p>
                                 </div>
                                 <div class="button_div">
-                                <button class="btn btn-secondary" onclick="privousSteps(14,15)">Back</button>
                                     <button class="btn btn-primary next-step" id="final-submit">Submit</button>
                                 </div>
                               </div>

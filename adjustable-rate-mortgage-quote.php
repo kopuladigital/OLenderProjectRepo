@@ -352,8 +352,8 @@ input[type="text"]:focus {
         <div class="container">
           <div class="row">
             <div class="services__content-four card zipcode_section">
-                  <h3 style="margin-bottom: 15px;">Find Out If A Reverse Mortgage Is Right For You</h3>
-                  <p>Use our FREE Reverse Mortgage Evaluator to find out <br>how a reverse mortgage could work for you!</p>
+                  <h3 style="margin-bottom: 15px;">Adjustable Rate Mortgage Quotes</h3>
+                  <p>Adjustable mortgage rate quotes vary depending on your unique situation. Get your FREE customized quote here!</p>
                   <div class="inputWithIcon">
                       <input type="text" placeholder="Zip Code" id="zip_code" maxlength="5">
                       <i class="fas fa-map-marker-alt"></i>
@@ -377,13 +377,13 @@ input[type="text"]:focus {
                         <!--============Step-1==============-->
                           <div class="step-form-step active">
                               <div class="card">
-                                <h3>What will this reverse mortgage be used for?</h3>
+                                <h3>What type of loan do you need?</h3>
                                 <div class="plans">
                                     <label class="plan basic-plan" for="basic">
                                       <input type="radio" name="plan" id="basic" />
                                       <div class="plan-content">
                                         <div class="plan-details">
-                                          <span>An Existing Home</span>
+                                          <span>Home Purchase</span>
                                         </div>
                                       </div>
                                     </label><br>
@@ -392,16 +392,7 @@ input[type="text"]:focus {
                                       <input type="radio" id="complete" name="plan" />
                                       <div class="plan-content">
                                         <div class="plan-details">
-                                          <span>Home Purchase</span>
-                                        </div>
-                                      </div>
-                                    </label><br>
-
-                                    <label class="plan complete-plan" for="ra_01">
-                                      <input type="radio" id="ra_01" name="plan" />
-                                      <div class="plan-content">
-                                        <div class="plan-details">
-                                          <span>Refinance My Reverse Mortgage</span>
+                                          <span>Home Refinance</span>
                                         </div>
                                       </div>
                                     </label>
@@ -416,7 +407,7 @@ input[type="text"]:focus {
 
                            <div class="step-form-step">
                               <div class="card">
-                                <h3>What type of property will be used for this reverse mortgage?</h3>
+                                <h3>What type of property are you purchasing?</h3>
                                 <div class="plans">
                                     <label class="plan basic-plan" for="bs_1">
                                       <input type="radio" name="plan"  id="bs_1"  class="first-qua"/>
@@ -431,7 +422,7 @@ input[type="text"]:focus {
                                       <input type="radio" id="bs_2" name="plan"  class="first_qua"/>
                                       <div class="plan-content">
                                         <div class="plan-details">
-                                          <span>Multi-Family Home</span>
+                                          <span>Condominium</span>
                                         </div>
                                       </div>
                                     </label><br>
@@ -440,7 +431,7 @@ input[type="text"]:focus {
                                       <input type="radio" id="bs_3" name="plan"  class="first_qua"/>
                                       <div class="plan-content">
                                         <div class="plan-details">
-                                          <span>Condominium</span>
+                                          <span>Townhome</span>
                                         </div>
                                       </div>
                                     </label><br>
@@ -449,7 +440,7 @@ input[type="text"]:focus {
                                       <input type="radio" id="bs_4" name="plan"  class="first_qua"/>
                                       <div class="plan-content">
                                         <div class="plan-details">
-                                          <span>Mobile/Manufactured Home</span>
+                                          <span>Multi-Family Home</span>
                                         </div>
                                       </div>
                                     </label>
@@ -465,13 +456,13 @@ input[type="text"]:focus {
                           <!--============Step-2==============-->
                           <div class="step-form-step">
                                 <div class="card">
-                                <h3>How long will you keep this property?</h3>
+                                <h3>Estimate your credit score.</h3>
                                 <div class="plans">
                                     <label class="plan basic-plan" for="rb_01">
                                       <input type="radio" name="plan" id="rb_01" />
                                       <div class="plan-content">
                                         <div class="plan-details">
-                                          <span>Less than 5 years</span>
+                                          <span>Excellent 740+</span>
                                         </div>
                                       </div>
                                     </label><br>
@@ -480,7 +471,7 @@ input[type="text"]:focus {
                                       <input type="radio" id="rb_02" name="plan" />
                                       <div class="plan-content">
                                         <div class="plan-details">
-                                          <span>5-10 years</span>
+                                          <span>Good 700-739</span>
                                         </div>
                                       </div>
                                     </label><br>
@@ -489,7 +480,7 @@ input[type="text"]:focus {
                                       <input type="radio" id="rb_03" name="plan" />
                                       <div class="plan-content">
                                         <div class="plan-details">
-                                          <span>11-20 years</span>
+                                          <span>Average 660-699</span>
                                         </div>
                                       </div>
                                     </label><br>
@@ -498,7 +489,16 @@ input[type="text"]:focus {
                                       <input type="radio" id="rb_04" name="plan" />
                                       <div class="plan-content">
                                         <div class="plan-details">
-                                          <span>Do not plan on moving again</span>
+                                          <span>Fair 600-659</span>
+                                        </div>
+                                      </div>
+                                    </label><br>
+
+                                    <label class="plan complete-plan" for="rb_05">
+                                      <input type="radio" id="rb_05" name="plan" />
+                                      <div class="plan-content">
+                                        <div class="plan-details">
+                                          <span>Poor < 600</span>
                                         </div>
                                       </div>
                                     </label>
@@ -513,66 +513,19 @@ input[type="text"]:focus {
 
                           <div class="step-form-step">
                               <div class="card">
+                                <h3>Is this your first property purchase?</h3>
                                 <div class="plans">
-                                    <div class="form-group doll_inpt">
-                                      <label>Please estimate the value of the property.</label>
-                                      <input type="text" class="form-control" id="" name="" placeholder="00.00">
-                                      <span>$</span>
-                                    </div>
-
-                                    <div class="form-group doll_inpt">
-                                      <label>What is your current mortgage balance?</label>
-                                      <input type="text" class="form-control" id="" name="" placeholder="00.00">
-                                      <span>$</span>
-                                    </div>
-                                  </div>
-
-                                  <div class="button_div">
-                                    <button class="btn btn-primary next-step">Next</button>
-                                  </div>
-                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
-                              </div>
-                          </div>
-
-                          <div class="step-form-step">
-                              <div class="card">
-                                <h3>What is your reason for a reverse mortgage?</h3>
-                                <div class="mortgage custom-select">
-                                    <select class="form-control" name="" id="">
-                                        <option value="" selected="" disabled="">Choose an option</option>
-                                        <option value="Reason For Reverse Mortgage">Reason For Reverse Mortgage</option>
-                                        <option value="Eliminate monthly payment">Eliminate monthly payment</option>
-                                        <option value="Repairs and remodeling">Repairs and remodeling</option>
-                                        <option value="Traveling and boarding">Traveling and boarding</option>
-                                        <option value="Provide gift funds">Provide gift funds</option>
-                                        <option value="Provide education funds">Provide education funds</option>
-                                        <option value="Estate planning">Estate planning</option>
-                                        <option value="Donations or charity">Donations or charity</option>
-                                        <option value="Medical costs">Medical costs</option>
-                                        <option value="Living assistance costs">Living assistance costs</option>
-                                      </select>
-                                  </div>
-
-                                  <div class="button_div">
-                                    <button class="btn btn-primary next-step">Next</button>
-                                  </div>
-                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
-                              </div>
-                          </div> 
-                          <div class="step-form-step">
-                              <div class="card">
-                                <h3>Is there a co-borrower/spouse?</h3>
-                                <div class="plans">
-                                    <label class="plan basic-plan" for="rb_17">
-                                      <input type="radio" name="plan" id="rb_17" />
+                                    <label class="plan basic-plan" for="rb_15">
+                                      <input type="radio" name="plan" id="rb_15" />
                                       <div class="plan-content">
                                         <div class="plan-details">
                                           <span>Yes</span>
                                         </div>
                                       </div>
                                     </label><br>
-                                    <label class="plan basic-plan" for="rb_18">
-                                      <input type="radio" name="plan" id="rb_18" />
+
+                                    <label class="plan complete-plan" for="rb_16">
+                                      <input type="radio" id="rb_16" name="plan" />
                                       <div class="plan-content">
                                         <div class="plan-details">
                                           <span>No</span>
@@ -583,19 +536,64 @@ input[type="text"]:focus {
 
                                   <div class="button_div">
                                     <button class="btn btn-primary next-step">Next</button>
+                                    <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
+                                  </div>
+                              </div>
+                          </div> 
+                          <div class="step-form-step">
+                              <div class="card">
+                                <h3>What is your current property purchase situation?</h3>
+                                <div class="plans">
+                                    <label class="plan basic-plan" for="rb_17">
+                                      <input type="radio" name="plan" id="rb_17" />
+                                      <div class="plan-content">
+                                        <div class="plan-details">
+                                          <span>Signed a Purchase Agreement</span>
+                                        </div>
+                                      </div>
+                                    </label><br>
+                                    <label class="plan basic-plan" for="rb_18">
+                                      <input type="radio" name="plan" id="rb_18" />
+                                      <div class="plan-content">
+                                        <div class="plan-details">
+                                          <span>Offer Pending / Found Property</span>
+                                        </div>
+                                      </div>
+                                    </label><br>
+                                    <label class="plan basic-plan" for="rb_19">
+                                      <input type="radio" name="plan" id="rb_19" />
+                                      <div class="plan-content">
+                                        <div class="plan-details">
+                                          <span>Buying in 2-6 Months</span>
+                                        </div>
+                                      </div>
+                                    </label><br>
+
+                                    <label class="plan complete-plan" for="rb_20">
+                                      <input type="radio" id="rb_20" name="plan" />
+                                      <div class="plan-content">
+                                        <div class="plan-details">
+                                          <span>Researching Options</span>
+                                        </div>
+                                      </div>
+                                    </label>
+                                  </div>
+
+                                  <div class="button_div">
+                                    <button class="btn btn-primary next-step">Next</button>
                                   </div>
                                   <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div> 
                           <div class="step-form-step">
                               <div class="card">
-                                <h3>For whom is this reverse mortgage?</h3>
+                                <h3>How will this property be used?</h3>
                                 <div class="plans">
                                     <label class="plan basic-plan" for="rb_21">
                                       <input type="radio" name="plan" id="rb_21" />
                                       <div class="plan-content">
                                         <div class="plan-details">
-                                          <span>Myself</span>
+                                          <span>Primary Home</span>
                                         </div>
                                       </div>
                                     </label><br>
@@ -603,7 +601,7 @@ input[type="text"]:focus {
                                       <input type="radio" name="plan" id="rb_22" />
                                       <div class="plan-content">
                                         <div class="plan-details">
-                                          <span>Parent</span>
+                                          <span>Secondary Home</span>
                                         </div>
                                       </div>
                                     </label><br>
@@ -611,23 +609,7 @@ input[type="text"]:focus {
                                       <input type="radio" name="plan" id="rb_23" />
                                       <div class="plan-content">
                                         <div class="plan-details">
-                                          <span>Sibling</span>
-                                        </div>
-                                      </div>
-                                    </label><br>
-                                    <label class="plan basic-plan" for="rb0_23">
-                                      <input type="radio" name="plan" id="rb0_23" />
-                                      <div class="plan-content">
-                                        <div class="plan-details">
-                                          <span>Friend</span>
-                                        </div>
-                                      </div>
-                                    </label><br>
-                                    <label class="plan basic-plan" for="rb0_24">
-                                      <input type="radio" name="plan" id="rb0_24" />
-                                      <div class="plan-content">
-                                        <div class="plan-details">
-                                          <span>Client</span>
+                                          <span>Rental Property</span>
                                         </div>
                                       </div>
                                     </label>
@@ -640,15 +622,31 @@ input[type="text"]:focus {
                               </div>
                           </div>
 
+                           <div class="step-form-step">
+                              <div class="card">
+                                <div class="plans">
+                                    <div class="form-group doll_inpt">
+                                  <label>What is the purchase price of the new property?</label>
+                                  <input type="text" class="form-control" id="" name="" placeholder="00.00">
+                                  <span>$</span>
+                                </div>
+                                  </div>
+
+                                  <div class="button_div">
+                                    <button class="btn btn-primary next-step">Next</button>
+                                  </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
+                              </div>
+                          </div>
                           <div class="step-form-step">
                               <div class="card">
-                                <h3>What is your age?</h3>
+                                <h3>What is your estimated down payment?</h3>
                                 <div class="plans">
                                     <label class="plan basic-plan" for="rb_25">
                                       <input type="radio" name="plan" id="rb_25" />
                                       <div class="plan-content">
                                         <div class="plan-details">
-                                          <span>Under 62</span>
+                                          <span>0% Down</span>
                                         </div>
                                       </div>
                                     </label><br>
@@ -656,7 +654,7 @@ input[type="text"]:focus {
                                       <input type="radio" name="plan" id="rb_26" />
                                       <div class="plan-content">
                                         <div class="plan-details">
-                                          <span>Over 62</span>
+                                          <span>3% Down</span>
                                         </div>
                                       </div>
                                     </label><br>
@@ -664,7 +662,15 @@ input[type="text"]:focus {
                                       <input type="radio" name="plan" id="rb_026" />
                                       <div class="plan-content">
                                         <div class="plan-details">
-                                          <span>90+ years</span>
+                                          <span>5% Down</span>
+                                        </div>
+                                      </div>
+                                    </label><br>
+                                    <label class="plan basic-plan" for="rb_126">
+                                      <input type="radio" name="plan" id="rb_126" />
+                                      <div class="plan-content">
+                                        <div class="plan-details">
+                                          <span>More Than 20%</span>
                                         </div>
                                       </div>
                                     </label>
@@ -678,18 +684,107 @@ input[type="text"]:focus {
                           </div>
                            <div class="step-form-step">
                               <div class="card">
-                                <h3>Are you currently working with a Loan Officer?</h3>
+                                <h3>What kind of rate do you prefer?</h3>
                                 <div class="plans">
                                     <label class="plan basic-plan" for="rbr_0s">
                                       <input type="radio" name="plan" id="rbr_0s" />
+                                      <div class="plan-content">
+                                        <div class="plan-details">
+                                          <span>Adjustable</span>
+                                        </div>
+                                      </div>
+                                    </label><br>
+                                    <label class="plan basic-plan" for="rbr_0t">
+                                      <input type="radio" name="plan" id="rbr_0t" />
+                                      <div class="plan-content">
+                                        <div class="plan-details">
+                                          <span>Fixed</span>
+                                        </div>
+                                      </div>
+                                    </label>
+                                  </div>
+
+                                  <div class="button_div">
+                                    <button class="btn btn-primary next-step">Next</button>
+                                  </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
+                              </div>
+                          </div>
+                          <div class="step-form-step">
+                              <div class="card">
+                                <div class="plans">
+                                    <div class="form-group doll_inpt">
+                                  <label>What is your gross annual household income?</label>
+                                  <input type="text" class="form-control" id="" name="" placeholder="00.00">
+                                  <span>$</span>
+                                </div>
+                                  </div>
+
+                                  <div class="button_div">
+                                    <button class="btn btn-primary next-step">Next</button>
+                                  </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
+                              </div>
+                          </div>
+                          <div class="step-form-step">
+                              <div class="card">
+                                <h3>What is your employment status?</h3>
+                                <div class="plans">
+                                    <label class="plan basic-plan" for="rb_021">
+                                      <input type="radio" name="plan" id="rb_021" />
+                                      <div class="plan-content">
+                                        <div class="plan-details">
+                                          <span>Employed</span>
+                                        </div>
+                                      </div>
+                                    </label><br>
+                                    <label class="plan basic-plan" for="rb_022">
+                                      <input type="radio" name="plan" id="rb_022" />
+                                      <div class="plan-content">
+                                        <div class="plan-details">
+                                          <span>Not Employed</span>
+                                        </div>
+                                      </div>
+                                    </label><br>
+                                    <label class="plan basic-plan" for="rb_023">
+                                      <input type="radio" name="plan" id="rb_023" />
+                                      <div class="plan-content">
+                                        <div class="plan-details">
+                                          <span>Self Employed</span>
+                                        </div>
+                                      </div>
+                                    </label><br>
+
+                                    <label class="plan complete-plan" for="rb_024">
+                                      <input type="radio" id="rb_024" name="plan" />
+                                      <div class="plan-content">
+                                        <div class="plan-details">
+                                          <span>Military</span>
+                                        </div>
+                                      </div>
+                                    </label>
+                                  </div>
+
+                                  <div class="button_div">
+                                    <button class="btn btn-primary next-step">Next</button>
+                                  </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
+                              </div>
+                          </div>
+                          <div class="step-form-step">
+                              <div class="card">
+                                <h3>Bankruptcy, short sale, or foreclosure in the last 3 years?</h3>
+                                <div class="plans">
+                                    <label class="plan basic-plan" for="rb_0s">
+                                      <input type="radio" name="plan" id="rb_0s" />
                                       <div class="plan-content">
                                         <div class="plan-details">
                                           <span>Yes</span>
                                         </div>
                                       </div>
                                     </label><br>
-                                    <label class="plan basic-plan" for="rbr_0t">
-                                      <input type="radio" name="plan" id="rbr_0t" />
+                                    <label class="plan basic-plan" for="rb_0t">
+                                      <input type="radio" name="plan" id="rb_0t" />
                                       <div class="plan-content">
                                         <div class="plan-details">
                                           <span>No</span>
@@ -704,7 +799,90 @@ input[type="text"]:focus {
                                   <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
                               </div>
                           </div>
-                          
+                          <div class="step-form-step">
+                              <div class="card">
+                                <h3>Can you show proof of income?</h3>
+                                <div class="plans">
+                                    <label class="plan basic-plan" for="rb_27">
+                                      <input type="radio" name="plan" id="rb_27" />
+                                      <div class="plan-content">
+                                        <div class="plan-details">
+                                          <span>Yes</span>
+                                        </div>
+                                      </div>
+                                    </label><br>
+                                    <label class="plan basic-plan" for="rb_28">
+                                      <input type="radio" name="plan" id="rb_28" />
+                                      <div class="plan-content">
+                                        <div class="plan-details">
+                                          <span>No</span>
+                                        </div>
+                                      </div>
+                                    </label>
+                                  </div>
+
+                                  <div class="button_div">
+                                    <button class="btn btn-primary next-step">Next</button>
+                                  </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
+                              </div>
+                          </div>
+                          <div class="step-form-step">
+                              <div class="card">
+                                <h3>Are you working with a real estate agent?</h3>
+                                <div class="plans">
+                                    <label class="plan basic-plan" for="rb_127">
+                                      <input type="radio" name="plan" id="rb_127" />
+                                      <div class="plan-content">
+                                        <div class="plan-details">
+                                          <span>Yes</span>
+                                        </div>
+                                      </div>
+                                    </label><br>
+                                    <label class="plan basic-plan" for="rb_128">
+                                      <input type="radio" name="plan" id="rb_128" />
+                                      <div class="plan-content">
+                                        <div class="plan-details">
+                                          <span>No</span>
+                                        </div>
+                                      </div>
+                                    </label>
+                                  </div>
+
+                                  <div class="button_div">
+                                    <button class="btn btn-primary next-step">Next</button>
+                                  </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
+                              </div>
+                          </div>
+                          <div class="step-form-step">
+                              <div class="card">
+                                <h3>Are you currently working with a Loan Officer?</h3>
+                                <div class="plans">
+                                    <label class="plan basic-plan" for="rbr_127">
+                                      <input type="radio" name="plan" id="rbr_127" />
+                                      <div class="plan-content">
+                                        <div class="plan-details">
+                                          <span>Yes</span>
+                                        </div>
+                                      </div>
+                                    </label><br>
+                                    <label class="plan basic-plan" for="rbr_128">
+                                      <input type="radio" name="plan" id="rbr_128" />
+                                      <div class="plan-content">
+                                        <div class="plan-details">
+                                          <span>No</span>
+                                        </div>
+                                      </div>
+                                    </label>
+                                  </div>
+
+                                  <div class="button_div">
+                                    <button class="btn btn-primary next-step">Next</button>
+                                  </div>
+                                  <div><button class="back_btn prev-step" id="back_zip">< Back</button></div>
+                              </div>
+                          </div>
                           <div class="step-form-step">
                               <div class="card">
                                 <div class="form-group" style="text-align: left;">
@@ -750,6 +928,14 @@ input[type="text"]:focus {
         <!-- ======================Step-1================= -->
         
 
+<!-- ================Step-4================= -->
+<!-- <section class="last_section">
+    <h3>Welcome back!</h3>
+  <p>It looks like you’ve been here before. We already have your information on file.</p>
+  <p style="margin-bottom: 25px;">Please call the number shown to discuss your options.</p>
+  <a href="tel:(888) 241-3106"><i class="flaticon-phone-call"></i> (888) 241-3106</a>
+</section> -->
+<!-- ================Step-4================= -->
   
     </main>
     <!-- main-area-end -->

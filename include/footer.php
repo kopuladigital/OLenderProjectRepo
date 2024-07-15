@@ -23,7 +23,7 @@
                             <div class="footer-widget">
                                 <div class="footer__newsletter-three">
                                     <h4 class="fw-title">About OLLender</h4>
-                                    <p style="color: #fff;">We’re making getting a mortgage easier than ever before. Edge Home Finance Corporation has an experienced team of brokers on staff.</p>
+                                    <p style="color: #fff;">Learn more about OLLender and our commitment to providing top-notch mortgage services. Our team of experts is here to assist you with all your mortgage needs.</p>
                                 </div>
                                 <div class="footer__social-three">
                                     <span class="title" style="color: #ffffff;">Follow Us on:</span>

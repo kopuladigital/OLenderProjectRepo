@@ -71,7 +71,7 @@
                                 
                                 <div class="about__phone">
                                     <div class="content">
-                                         <a class='btn btn_clss' href='#'>Adjustable Rate Qualifier!</a>
+                                         <a class='btn btn_clss' href='adjustable-rate-mortgage-quote.php'>Adjustable Rate Qualifier!</a>
                                     </div>
                                 </div>
                             </div>
@@ -114,7 +114,7 @@
                         <div class="about__content-three box_xxx">
                             <div class="section-title tg-heading-subheading animation-style3 h2">
                                 <h2 class="title tg-element-title">Get Your 15-Year Fixed-Rate Quote Now!</h2>
-                                <a class='btn btn_clss' href='#'>I Want My FREE 15-Year Fixed-Rate Quote!</a>
+                                <a class='btn btn_clss' href='adjustable-rate-mortgage-quote.php'>I Want My FREE 15-Year Fixed-Rate Quote!</a>
                             </div>                           
                         </div>
                     </div>

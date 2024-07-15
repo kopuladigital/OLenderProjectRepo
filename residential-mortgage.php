@@ -94,6 +94,18 @@
 
 }
 }
+.services__content-three ul li
+{
+    text-align: left;
+    font-size: 18px;
+    color: #fff;
+    margin-bottom: 15px;
+}
+.about__content-three > p {
+    margin-bottom: 10px;
+    width: 100%;
+    color: #000;
+}
 </style>
     <!-- main-area -->
     <main class="fix">
@@ -137,11 +149,9 @@
                     <div class="col-lg-6">
                         <div class="about__content-three">
                             <div class="section-title mb-25 tg-heading-subheading animation-style3">
-                                <h2 class="title tg-element-title">Residential Mortgages</h2>
+                                <h2 class="title tg-element-title">What is a Residential Mortgage?</h2>
                             </div>
-                            <p>OLLender is the only U.S. residential mortgage specialist focusing on overseas borrowers – both Foreign Nationals and U.S. Expats.</p>
-                            <p>Our team of loan officers understand the requirements of our international borrowers and provide mortgage solutions to purchase, refinance or release equity.</p>
-                            <p>We work alongside our lenders to create loan programs specifically designed for overseas borrowers and have developed a process that has eliminated many unnecessary steps.</p>                          
+                            <p>A residential mortgage is a loan specifically designed for buying a home, where the property itself serves as collateral. Whether you're a first-time buyer or looking to refinance, understanding how mortgages work is the first step towards homeownership.</p>                          
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-8">
@@ -160,21 +170,20 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-12">
                         <div class="section-title white-title mb-50 tg-heading-subheading animation-style3">
-                            <h2 class="title tg-element-title" style="color: #fff;">Residential Mortgages for Overseas Borrowers</h2>
-                            <p style="color: #fff;">We offer 150 U.S. bank and lender programs direct to our overseas clients – for both U.S. Citizens and Foreign Nationals.</p>
+                            <h2 class="title tg-element-title" style="color: #fff;">Key Terms Demystified</h2>
+                            <p style="color: #fff;">Here are a few terms you’ll encounter:</p>
                         </div>
                     </div>
                 </div>
                 <div class="row justify-content-center gutter-24">
                     <div class="col-lg-12 col-md-12">
                         <div class="services__item-three">
-                            <div class="services__item-top">
-                                <div class="services__item-top-title">
-                                    <h2 class="title">U.S. Citizens living overseas (Expats)</h2>
-                                </div>
-                            </div>
                             <div class="services__content-three">
-                                <p>We offer those with established credit exactly what you would find at your bank back home, but since we work with lenders in all 50 states, we are sure to find the best loan option available. Even for U.S. Citizens who have been “away from home” for an extended period and lack the depth of credit, we have solutions to help improve your credit as well as programs that accept your overseas credit and income.</p>
+                                <ul>
+                                    <li>Interest Rate: The cost you'll pay each year to borrow the money, expressed as a percentage.</li>
+                                    <li>Principal: The amount of money you borrow.</li>
+                                    <li>Amortization: The schedule by which your loan payments will pay off the debt over time. These terms are critical in understanding how much you’ll ultimately pay for your home.</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -182,11 +191,11 @@
                         <div class="services__item-three">
                             <div class="services__item-top">
                                 <div class="services__top-title">
-                                    <h2 class="title">Foreign Nationals living overseas</h2>
+                                    <h2 class="title">First Steps in the Mortgage Process</h2>
                                 </div>
                             </div>
                             <div class="services__content-three">
-                                <p>Borrowers living overseas do not need to have U.S. credit to apply for a U.S. mortgage. We accept an international credit report from your home country or country of residence. There are often situations where real estate investors may not have established credit in their home country, or that country doesn’t have a standard credit reporting agency. In these cases, our in-house processing team has created solutions to address the lack of overseas credit by accepting a bank reference letter, a local accountant letter, to name a few.</p>
+                                <p>The journey to securing a mortgage starts with getting pre-approved. This involves a lender reviewing your financial background (income, debts, assets, and credit score) to determine how much they can lend you and at what interest rate. Gathering your financial documents in advance will streamline this process.</p>
                             </div>
                         </div>
                     </div>
@@ -207,16 +216,32 @@
                     <div class="col-lg-6">
                         <div class="about__content-three ul_cls_ss">
                             <div class="section-title mb-25 tg-heading-subheading animation-style3">
-                                <h2 class="title tg-element-title">Key Loan Highlights</h2>
+                                <h2 class="title tg-element-title">Choosing Your Path - Selecting the Right Mortgage</h2>
                             </div>
+                            <p><strong>Types of Mortgages Available</strong></p>
+                            <p>There are several mortgage types to consider:</p>
                             <ul>
-                            	<li>Overseas income and credit accepted (if required)</li>
-                            	<li>Maximum loan-to-value is 70% for Foreign Nationals and 80% for U.S. Citizens</li>
-                            	<li>Many term options: 15-yr fixed, 30-yr fixed, 5-yr ARM, 7-yr ARM</li>
-                            	<li>Minimum loan amount is $150,000 and a maximum of $5,000,000</li>
-                            	<li>All loans can be amortized over 30 years, regardless of age</li>
-                            	<li>Interest-Servicing Only (Interest-Only) payments are also available</li>
+                            	<li>Fixed-Rate Mortgages: The interest rate remains the same throughout the term of the loan, often making budgeting easier.</li>
+                            	<li>Adjustable-Rate Mortgages (ARMs): The interest rate changes based on market conditions, which can offer lower initial rates but with the risk of increasing. Choosing the right type depends on your financial stability and how long you plan to stay in the home.</li>
                             </ul>                          
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+
+        <section class="about__area-three about__bg-two" data-background="assets/img/banner_bg_000.jpg">
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+                    <div class="col-lg-12">
+                        <div class="about__content-three ul_cls_ss">
+                            <h2>Rates and Fees</h2>
+                            <p>Mortgage rates can vary widely depending on the lender and your financial situation. It’s important to compare offers from multiple lenders to ensure you get the best deal. Also, be aware of fees such as closing costs, origination fees, and any penalties for early repayment, as these can significantly affect the cost of your loan.</p>
+                            <h2>Finalizing Your Mortgage Choice</h2>
+                            <p>Once you've compared rates and terms, consider the long-term implications of your mortgage choice. Think about your future financial goals and how your mortgage fits into these plans. Don't hesitate to negotiate with lenders to get better terms. Once satisfied, you can move forward with your application, heading towards closing, which is the final step in securing your home.</p>
+                            <p>This structured approach to discussing residential mortgages will help your readers on ollender.com understand the process and make informed decisions about their home financing options.</p>
+                                                    
                         </div>
                     </div>
                     
