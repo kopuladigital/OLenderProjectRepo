@@ -67,7 +67,7 @@
                             <div class="section-title mb-25 tg-heading-subheading animation-style3">
                                 <h2 class="title tg-element-title">Buy a Home Outside the City Limits with USDA home Loans!</h2>
                             </div>
-                            <p>There are many benefits of a USDA home loan. One of the biggest benefits is that no down payment is required.* Borrowers who qualify for a USDA home loan have the flexibility to pay nothing out of pocket for a down payment.</p>
+                            <p>Welcome to Ollender.com! Whether you're buying your first home or seeking new opportunities, USDA loans offer a unique chance to secure a home with zero down payment and competitive interest rates. Our goal is to make homeownership accessible and straightforward for everyone. Ready to see if you qualify? Click the button below to begin your journey towards homeownership. </p>
                             <div class="about-bottom about-bottom-two">                               
                                 <div class="about__phone">
                                     <div class="content">
@@ -88,28 +88,61 @@
 
                     <div class="col-lg-12">
                         <div class="about__content-three">
-                            <div class="section-title mb-25 tg-heading-subheading animation-style3">
-                                <h2 class="title tg-element-title">About USDA Home Loans</h2>
-                            </div>
-                            <p>The United States Department of Agriculture (USDA) gives borrowers the opportunity to own a home outside of the city limits. There are several benefits of a USDA loan,including flexible credit underwriting requirements and no down payment required.</p>
-                            <p>We’re here to make the USDA home loan process easier, with tools and knowledge that will help guide you along the way, starting with our <a href="###"><strong>USDA Loan Qualifier.</strong></a></p>
-                            <p>We’ll help you clearly see differences between loan programs, allowing you to choose the right one for you whether you’re a first-time home buyer or a repeat buyer.</p>   
-                            <p><strong>The USDA Loan Process</strong></p>   
-                            <p>Here’s how our home loan process works:</p> 
+                            <h2>Why Choose a USDA Loan?</h2>
+                            <p>USDA loans are designed to help low-to-moderate income families achieve homeownership. With no down payment required, competitive interest rates, and flexible credit guidelines, USDA loans make it easier to own a home in rural and suburban areas.</p>
+                            <h2>Eligibility Criteria</h2>
+                            <p>To qualify for a USDA loan, your income must fall within specified limits for your area, and the property must be located in an eligible rural or suburban area. Check your eligibility using our online tool or consult with one of our loan experts.</p>          
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="about__area-three about__bg-two" data-background="assets/img/bg/h3_about_bg.jpg">
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+                    
+                    <div class="col-lg-6">
+                        <div class="about__content-three">
+                            <h2>Benefits of USDA Loans</h2>
+                            <p>USDA loans come with several benefits:</p>  
                             <ul>
-                            	<li>Complete our simple  <a href="###">USDA Loan Qualifier</a></li>
-                                <li>Receive options based on your unique criteria and scenario</li>
-                                <li>Compare mortgage interest rates and terms</li>
-                                <li>Choose the offer that best fits your needs</li>
-                                <li>Fixed-Rate Mortgage</li>
-                                <li>Low Mortgage Insurance</li>
-                                <li>No Loan Limits</li>
-                                <li>30-year fixed-rate loan</li>
-                            </ul>                   
+                                <li>Zero Down Payment: One of the few loan programs that allow you to buy a home with no down payment.</li>
+                                <li>Competitive Interest Rates: Enjoy lower interest rates compared to conventional loans.</li>
+                                <li>Flexible Credit Guidelines: Easier qualification for those with lower credit scores.</li>
+                            </ul>                         
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-8">
+                        <div class="about__img-wrap-three">
+                            <img src="assets/img/USDA-Loans-Basics-and-Benefits.webp" alt="image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="about__area-three about__bg-two" style="background: #0000000f;">
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+
+                    <div class="col-lg-12">
+                        <div class="about__content-three">
+                            <h2>How to Apply</h2>
+                            <p>Applying for a USDA loan is simple:</p>
+                            <ul>
+                                <li>Prequalification: Determine your eligibility online or with a lender. This step helps you understand your borrowing capacity and readiness.</li>
+                                <li>Document Collection: Gather necessary financial documents such as income proof and credit history. Having these documents ready can speed up the application process.</li>
+                                <li>Application Submission: Apply online through our secure portal. Our user-friendly interface ensures a smooth and hassle-free application experience.</li>
+                                <li>Approval and Closing: Await approval and complete the closing process to move into your new home. Our team will guide you through each step, ensuring you are well-informed and comfortable throughout.</li>
+                            </ul> 
+                            <h2>Resources and Support</h2>
+                            <p>Explore our extensive library of articles and guides to learn more about USDA loans. Our resources are designed to educate and empower you, providing insights into the loan process, benefits, and tips for first-time homebuyers.</p>
+                            <p>Need help? Our loan specialists are here to assist you. Contact us today for personalized advice and support. We are committed to helping you achieve your homeownership goals with ease and confidence. Reach out via phone, email, or our contact form, and we will get back to you promptly.</p>        
                         </div>
                     </div>
 
-                    <div class="col-lg-12">
+                    <div class="col-lg-12" style="margin-top: 25px;">
                         <div class="about__content-three box_xxx">
                             <div class="section-title tg-heading-subheading animation-style3 h2">
                                 <h2 class="title tg-element-title">Get Your USDA Loan Quote Now!</h2>

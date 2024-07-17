@@ -66,7 +66,7 @@
                             <div class="section-title mb-25 tg-heading-subheading animation-style3">
                                 <h2 class="title tg-element-title">Is a 30-year fixed-rate mortgage right for you?</h2>
                             </div>
-                            <p>When interest rates are low, fixed-rate loans are generally not that much more expensive than adjustable-rate mortgages and may be a better deal in the long run, because you can lock in the rate for the life of your loan.</p>
+                            <p>If you're considering a 30-year fixed mortgage, you've come to the right place. Our aim is to provide you with the information and support needed to make an informed decision about this popular home financing option. Ready to explore your options? Click the button below to learn more about 30-year fixed mortgage loans and see if you qualify.</p>
                             <div class="about-bottom about-bottom-two">
                                 
                                 <div class="about__phone">
@@ -81,6 +81,50 @@
                 </div>
             </div>
         </section>
+        <section class="about__area-three about__bg-two" style="background: #0000000f;">
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+
+                    <div class="col-lg-12">
+                        <div class="about__content-three">
+                            <h2>What is a 30-Year Fixed Mortgage Loan?</h2>
+                            <p>A 30-year fixed mortgage loan offers a fixed interest rate and monthly payments that remain the same over the 30-year term. This stability makes it a popular choice for homebuyers who plan to stay in their homes long-term.</p>
+                            <h2>Eligibility Criteria</h2>
+                            <p>To qualify for a 30-year fixed mortgage loan, you typically need:</p> 
+                            <ul>
+                                <li>A stable income.</li>
+                                <li>A good credit score.</li>
+                                <li>A down payment (varies by lender).</li>
+                            </ul>         
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="about__area-three about__bg-two" data-background="assets/img/bg/h3_about_bg.jpg">
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+                    
+                    <div class="col-lg-6">
+                        <div class="about__content-three">
+                            <h2>Benefits of 30-Year Fixed Mortgage Loans</h2>
+                            <p>30-year fixed mortgage loans come with several benefits:</p>  
+                            <ul>
+                                <li>Predictable Monthly Payments: Your payments remain the same throughout the life of the loan, making budgeting easier.</li>
+                                <li>Long-Term Stability: Lock in your interest rate for 30 years, protecting you from rate increases.</li>
+                                <li>Affordability: Lower monthly payments compared to shorter-term loans.</li>
+                            </ul>                         
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-8">
+                        <div class="about__img-wrap-three">
+                            <img src="assets/img/106912959-1626712311395-gettyimages-1219561080-026a7028.jpeg" alt="image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
         <section class="about__area-three about__bg-two" style="background: #0000000f;">
             <div class="container">
@@ -88,28 +132,23 @@
 
                     <div class="col-lg-12">
                         <div class="about__content-three">
-                            <div class="section-title mb-25 tg-heading-subheading animation-style3">
-                                <h2 class="title tg-element-title">About 30-Year Fixed-Rate Loans</h2>
-                            </div>
-                            <p>The traditional 30-year fixed-rate mortgage has a constant interest rate and monthly payments that never change. A 30-year fixed-rate loan may be a good option if you plan on staying in your home for years to come.</p>
-                            <p>We’re here to make the home loan process easier, with tools and knowledge that will help guide you along the way, starting with our <a href="###"><strong> 30-Year Fixed Rate Mortgage Qualifier.</strong></a></p>
-                            <p>We’ll help you clearly see differences between loan programs, allowing you to choose the right one for you whether you’re a first-time home buyer or a repeat buyer.</p>   
-                            <p><strong>The 30-Year Fixed Rate Mortgage Loan Process</strong></p>   
-                            <p>Here’s how our home loan process works:</p> 
+                            <h2>How to Apply</h2>
+                            <p>Applying for a 30-year fixed mortgage loan involves several steps:</p>
                             <ul>
-                            	<li>Complete our simple  <a href="###"> 30-Year Fixed Rate Mortgage Qualifier</a></li>
-                                <li>Receive options based on your unique criteria and scenario</li>
-                                <li>Compare mortgage interest rates and terms</li>
-                                <li>Choose the offer that best fits your needs</li>
-                                <li>Fixed-Rate Mortgage</li>
-                                <li>Conforming Loans</li>
-                                <li>Jumbo & Super Jumbo Loans</li>
-                                <li>FHA, VA & USDA Loans</li>
-                            </ul>                   
+                                <li>Prequalification: Determine your borrowing capacity and readiness.</li>
+                                <li>Document Collection: Gather necessary financial documents such as income proof and credit history.</li>
+                                <li>Application Submission: Apply online through our secure portal.</li>
+                                <li>Loan Approval and Closing: Await approval and complete the closing process to secure your new home.</li>
+                            </ul> 
+                            <h2>Is a 30-Year Fixed-Rate Mortgage Right for You?</h2>
+                            <p>At Ollender.com, we understand that choosing the right mortgage is a crucial decision. A 30-year fixed-rate mortgage offers stability and predictability, but is it the best choice for you? Let’s explore the details together.</p>   
+                            <h2>Resources and Support</h2> 
+                            <p>Explore our comprehensive library of articles and guides to learn more about 30-year fixed mortgage loans. Our resources are designed to provide you with the knowledge you need to make an informed decision.</p> 
+                            <p>Have questions or need personalized assistance? Our loan specialists are here to help. Contact us today to discuss your options and get tailored advice. Reach out via phone, email, or our contact form, and we’ll respond promptly to assist you.</p>   
                         </div>
                     </div>
 
-                    <div class="col-lg-12">
+                    <div class="col-lg-12" style="margin-top: 25px;">
                         <div class="about__content-three box_xxx">
                             <div class="section-title tg-heading-subheading animation-style3 h2">
                                 <h2 class="title tg-element-title">Get Your 30-Year Fixed Rate Quote Now!</h2>
@@ -121,6 +160,7 @@
                 </div>
             </div>
         </section>
+
         <!-- about-area-end -->
 
        

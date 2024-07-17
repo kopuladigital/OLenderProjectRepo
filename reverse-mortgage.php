@@ -67,7 +67,7 @@
                             <div class="section-title mb-25 tg-heading-subheading animation-style3">
                                 <h2 class="title tg-element-title">The Lowdown on Reverse Mortgage Loans</h2>
                             </div>
-                            <p>A reverse mortgage pays off your existing mortgage, should you have one, by allowing you access to the home equity you’ve worked so hard to build. Any money left after paying off your existing mortgage is available to use as you see fit.</p>
+                            <p>If you're considering a reverse mortgage loan, you've come to the right place. Our aim is to provide you with the information and support needed to make an informed decision about this unique financial product. Ready to explore your options? Click the button below to learn more about reverse mortgage loans and see if you qualify.</p>
                             <div class="about-bottom about-bottom-two">
                                 
                                 <div class="about__phone">
@@ -89,28 +89,66 @@
 
                     <div class="col-lg-12">
                         <div class="about__content-three">
-                            <div class="section-title mb-25 tg-heading-subheading animation-style3">
-                                <h2 class="title tg-element-title">Our Reverse Mortgage Rates Are Low & Our Process is Quick & Painless</h2>
-                            </div>
-                            <p>A reverse mortgage is a loan for seniors age 62 and older. HECM reverse mortgage loans are insured by the Federal Housing Administration (FHA) and allow homeowners to convert their home equity into cash with no monthly mortgage payments.</p>
-                            <p>We’re here to make the reverse mortgage process a whole lot easier, with tools and expertise that will help guide you along the way, starting with our <a href="###"><strong>Reverse Mortgage Qualifier.</strong></a></p>
-                            <p>We’ll help you clearly see differences between reverse mortgage options, allowing you to choose the right one for you.</p>   
-                            <p><strong>The Reverse Mortgage Process</strong></p>   
-                            <p>Here’s how our reverse mortgage process works:</p> 
+                            <h2>What is a Reverse Mortgage Loan?</h2>
+                            <p>A reverse mortgage loan allows homeowners aged 62 and older to convert part of the equity in their home into cash without having to sell their home or pay additional monthly bills. This can provide a valuable source of income for retirees.</p>
+                            <h2>Eligibility Criteria</h2>
+                            <p>To qualify for a reverse mortgage loan, you must:</p> 
                             <ul>
-                            	<li>Complete our simple  <a href="###">Reverse Mortgage Qualifier</a></li>
-                                <li>Receive options based on your unique criteria and scenario</li>
-                                <li>Compare mortgage interest rates and terms</li>
-                                <li>Choose the offer that best fits your needs</li>
-                                <li>Full or Partial Lump Sum</li>
-                                <li>Line of Credit</li>
-                                <li>Monthly Payments</li>
-                                <li>Combination of Any of These You have the option to change your disbursement method at any time.</li>
-                            </ul>                   
+                                <li>Be at least 62 years old.</li>
+                                <li>Own your home outright or have a low mortgage balance that can be paid off at closing with proceeds from the reverse loan.</li>
+                                <li>Live in the home as your primary residence.</li>
+                            </ul>         
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="about__area-three about__bg-two" data-background="assets/img/bg/h3_about_bg.jpg">
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+                    
+                    <div class="col-lg-6">
+                        <div class="about__content-three">
+                            <h2>Benefits of Reverse Mortgage Loans</h2>
+                            <p>Reverse mortgage loans offer several benefits:</p>  
+                            <ul>
+                                <li>Supplemental Income: Receive funds to supplement your retirement income.</li>
+                                <li>No Monthly Mortgage Payments: Repayment is only required when the homeowner sells the home, moves out, or passes away.</li>
+                                <li>Flexibility: Choose how you receive the funds – lump sum, monthly payments, or a line of credit.</li>
+                            </ul>                         
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-8">
+                        <div class="about__img-wrap-three">
+                            <img src="assets/img/Flexibility-Choose--how.jpg" alt="image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="about__area-three about__bg-two" style="background: #0000000f;">
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+
+                    <div class="col-lg-12">
+                        <div class="about__content-three">
+                            <h2>How to Apply</h2>
+                            <p>Applying for a reverse mortgage loan involves several steps:</p>
+                            <ul>
+                                <li>Counseling Session: Participate in a mandatory counseling session to ensure you understand the loan and its implications.</li>
+                                <li>Application Submission: Complete an application with a reverse mortgage lender.</li>
+                                <li>Home Appraisal: An independent appraiser assesses the value of your home.</li>
+                                <li>Loan Approval and Closing: Upon approval, close the loan and choose how you wish to receive your funds.</li>
+                            </ul> 
+                            <h2>Key Considerations</h2>
+                            <p>When contemplating a reverse mortgage, it’s crucial to consider the impact on your long-term financial plan. Ensure you understand all terms and conditions, and evaluate how this decision will affect your estate and heirs. Consulting with a financial advisor can provide additional insights tailored to your specific situation.</p>
+                            <p>Explore our comprehensive library of articles and guides to learn more about reverse mortgage loans. Our resources are designed to provide you with the knowledge you need to make an informed decision.</p>        
                         </div>
                     </div>
 
-                    <div class="col-lg-12">
+                    <div class="col-lg-12" style="margin-top: 25px;">
                         <div class="about__content-three box_xxx">
                             <div class="section-title tg-heading-subheading animation-style3 h2">
                                 <h2 class="title tg-element-title">Get Your USDA Loan Quote Now!</h2>

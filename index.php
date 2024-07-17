@@ -266,7 +266,18 @@ outline: none;
 
 
         <!-- about-area -->
-        <section class="about__area-three about__bg-two" data-background="assets/img/bg/h3_about_bg.jpg">
+        <section class="about__area-three about__bg-two" data-background="assets/img/bg/h3_about_bg.jpg" style="    padding-bottom: 0px;">
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+                    <div class="col-lg-12">
+                        <div class="about__content-three" style="width: 100%;">
+                            <a href="tel:(888) 241-3106"><img src="assets/img/banner_img_ollender.jpg" alt="image" style="border-radius: 20px;width: 100%;"></a>
+                        </div>
+                    </div>                    
+                </div>
+            </div>
+        </section>
+        <!-- <section class="about__area-three about__bg-two" data-background="assets/img/bg/h3_about_bg.jpg">
             <div class="container">
                 <div class="row align-items-center justify-content-center box_style_ces">
                     <div class="col-lg-12">
@@ -346,7 +357,7 @@ outline: none;
 
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <section class="about__area-three about__bg-two" data-background="assets/img/bg/h3_about_bg.jpg">
             <div class="container">

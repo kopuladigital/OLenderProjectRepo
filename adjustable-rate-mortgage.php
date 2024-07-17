@@ -66,7 +66,7 @@
                             <div class="section-title mb-25 tg-heading-subheading animation-style3">
                                 <h2 class="title tg-element-title">Is an adjustable-rate mortgage (ARM) right for you?</h2>
                             </div>
-                            <p>Most homeowners get into adjustable-rate mortgages for the lower initial payment, and then usually refinance the loan when the fixed period ends. At that time, the interest rate becomes variable, or adjustable, and the homeowner may refinance into another adjustable-rate mortgage, a fixed-rate mortgage, or sell the home.</p>
+                            <p>Welcome to Ollender.com! We are excited to assist you in navigating the world of Adjustable Rate Mortgages (ARMs). Our mission is to provide you with the knowledge and resources needed to make informed decisions about your home financing options. With our expert support, you’ll find the perfect mortgage solution tailored to your needs. Let’s embark on this journey together to secure your dream home.</p>
                             <div class="about-bottom about-bottom-two">
                                 
                                 <div class="about__phone">
@@ -88,29 +88,75 @@
 
                     <div class="col-lg-12">
                         <div class="about__content-three">
-                            <div class="section-title mb-25 tg-heading-subheading animation-style3">
-                                <h2 class="title tg-element-title">About Adjustable-Rate Mortgage Options</h2>
-                            </div>
-                            <p>An ARM is an Adjustable Rate Mortgage. Unlike fixed-rate mortgages that have an interest rate that remains the same for the life of the loan, the interest rate on an ARM will change periodically. The intial interest rate of an ARM is lower then that of a fixed-rate mortgage, consequently, an ARM maybe a good option to consider if you plan to own your home for only a few years; you expect an increase in future earnings; or, the prevailing interest rate for a fixed mortgage is too high.</p>
-                            <p>We’re here to make it easier, with tools and expertise that will help guide you along the way, starting with our  <a href="###"><strong>   Adjustable Rate mortgage Qualifier.</strong></a></p>
-                            <p>We’ll help you clearly see differences between loan programs, allowing you to choose the right one for you whether you’re a first-time home buyer or a repeat buyer.</p>   
-                            <p><strong>The Adjustable-Rate Mortgage Loan Process</strong></p>   
-                            <p>Here’s how our home loan process works:</p> 
+                            <h2>Why Choose an Adjustable Rate Mortgage?</h2>
+                            <strong>Flexible Home Financing</strong>
+                            <p>At Ollender.com, we offer Adjustable Rate Mortgages because they provide flexible financing options that can adapt to changing market conditions. An ARM starts with a lower fixed interest rate for an initial period, which then adjusts periodically based on the market.</p>
+                            <h3>Benefits of Choosing an Adjustable Rate Mortgage</h3>
+                            <p><strong>Potential for Lower Initial Payments</strong></p>
+                            <p>ARMs offer several advantages:</p> 
                             <ul>
-                            	<li>Complete our simple  <a href="###"> Adjustable Rate mortgage Qualifier</a></li>
-                                <li>Receive options based on your unique criteria and scenario</li>
-                                <li>Compare mortgage interest rates and terms</li>
-                                <li>Choose the offer that best fits your needs</li>
-                                <li>Adjustable-Rate Mortgage (ARM)</li>
-                                <li>Conforming Loans</li>
-                                <li>Jumbo & Super Jumbo Loans</li>
-                                <li>FHA, VA & USDA Loans</li>
-                                <li>3/1, 5/1, 5/5, 7/1 and 10/1 ARM options are available</li>
-                            </ul>                   
+                                <li>Lower Initial Interest Rates: Benefit from lower rates during the initial fixed period.</li>
+                                <li>Reduced Initial Payments: Enjoy lower monthly payments at the beginning of the loan term.</li>
+                                <li>Rate Adjustments: Potential to benefit from decreasing interest rates over time.</li>
+                            </ul> 
+
+                            <h3>Who Should Consider This Loan?</h3>
+                            <p><strong>Ideal for Shorter-Term Homeownership</strong></p>
+                            <p>An Adjustable Rate Mortgage is perfect for those who:</p> 
+                            <ul>
+                                <li>Plan to Move: Ideal for homebuyers who expect to move before the adjustable period begins.</li>
+                                <li>Expect Income Growth: Suitable for borrowers anticipating an increase in their income.</li>
+                                <li>Want Lower Initial Costs: Great for those looking to minimize initial mortgage payments.</li>
+                            </ul>         
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="about__area-three about__bg-two" data-background="assets/img/bg/h3_about_bg.jpg">
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+                    
+                    <div class="col-lg-6">
+                        <div class="about__content-three">
+                            <h2>Comparing Mortgage Options</h2>
+                            <p>Adjustable Rate Mortgages are a flexible financing option for homebuyers. They offer lower initial interest rates compared to fixed-rate loans, leading to reduced monthly payments in the early years. As the rate adjusts, your payments may increase or decrease based on market conditions, providing an opportunity to benefit from falling interest rates. Choosing an ARM can offer financial flexibility and savings, especially for those planning to move or refinance before the rate adjustment period.</p>                          
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-8">
+                        <div class="about__img-wrap-three">
+                            <img src="assets/img/GettyImages-636584966-770x462.jpg" alt="image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="about__area-three about__bg-two" style="background: #0000000f;">
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+
+                    <div class="col-lg-12">
+                        <div class="about__content-three">
+                            <h2>Application Process</h2>
+                            <p>Applying for an Adjustable Rate Mortgage involves several steps:</p>
+                            <ul>
+                                <li>Prequalification: Assess your borrowing capacity and readiness.</li>
+                                <li>Document Collection: Gather necessary financial documents such as income proof and credit history.</li>
+                                <li>Application Submission: Complete and submit your loan application.</li>
+                                <li>Loan Approval and Closing: Finalize your loan and secure your new home.</li>
+                            </ul> 
+                            <h2>Financial Tools</h2>
+                            <p>Utilize our mortgage calculator to estimate your monthly payments and affordability. These tools help you plan your finances and understand the implications of an Adjustable Rate Mortgage on your budget.</p>   
+                            <h2>Educational Resources</h2> 
+                            <p>Dive into our comprehensive library of articles and guides designed to provide you with in-depth knowledge about Adjustable Rate Mortgages. Learn about how ARMs work, the benefits and risks, and strategies for managing adjustable-rate loans. These resources are here to ensure you make the most informed decision possible.</p> 
+                            <h2>Personalized Support</h2>
+                            <p>Have questions or need personalized assistance? Our loan specialists are here to help. Contact us today to discuss your options and receive tailored advice. Reach out via phone, email, or through our website, and we’ll guide you through the process, ensuring you get the best financing solution for your needs.</p>   
                         </div>
                     </div>
 
-                    <div class="col-lg-12">
+                    <div class="col-lg-12" style="margin-top: 25px;">
                         <div class="about__content-three box_xxx">
                             <div class="section-title tg-heading-subheading animation-style3 h2">
                                 <h2 class="title tg-element-title">Get Your 15-Year Fixed-Rate Quote Now!</h2>
@@ -122,6 +168,7 @@
                 </div>
             </div>
         </section>
+
         <!-- about-area-end -->
 
        
